@@ -1,0 +1,7 @@
+(Refer Slide Time: 52:23) 
+
+ Now, we can go through this little more. For example, we saw that F to number; the value of F is nothing but the number itself. So, the number value is passed on. What is the semantics of F to id? F dot val is the value produced by looking up this particular name inside the symbol table F dot symtab. What is the value of T to F? Whatever value produced by F is passed on to T. What is the value of T 2 star F? We take the value of T 2 dot val, we take the value of F dot val, and then we add up these two values and that is the value which is produced as the value of T 1. 
+
+
+
+

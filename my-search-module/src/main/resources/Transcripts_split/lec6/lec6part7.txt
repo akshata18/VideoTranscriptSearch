@@ -1,0 +1,25 @@
+(Refer Slide Time: 17:41)
+
+As you see that some of the earlier steps have smaller effort than the subsequent steps.
+For example the detailed design implementation is very effort intensive steps. The line
+here is a cumulative task and as you see it increases rapidly as we progress in the
+development. Accumulated cost increases dramatically as we go from initial steps to later
+steps. Because as we move along the steps we are committing the time of programmers,
+technical people and computer time, all this is naturally a cost factor. This effort
+distribution is important for us to understand. Because it clearly brings out that we must
+take all efforts to remove errors as early as possible in the lifecycle. We must discover
+and fix these errors as early as possible.
+Because fixing them subsequently will be a very costly operation. So suppose there is a
+misunderstanding or the analysis phase has not clearly identified the functional
+requirement, now that if it is not detected at the review phase of the analysis, it would be
+carried over design, detailed design and implementation. And it is possible that we
+discover that mistake during the operational part of the software; when the users have
+started using the software. In order to make the correction we will have to undo the code
+design etcetera and go back right up to the analysis phase and identify what was missed
+out what was wrongly understood, and carry out the design and implementation and
+testing process again. So it is important that such errors are captured as early as possible
+and they are not allowed to slip into the subsequent steps. So in any software
+development approach it is important to understand, how the cost and efforts are
+distributed, not only for project planning, but for emphasizing an error free activity in
+each step.
+

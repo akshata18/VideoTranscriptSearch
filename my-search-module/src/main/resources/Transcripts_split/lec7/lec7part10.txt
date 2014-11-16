@@ -1,0 +1,31 @@
+(Refer Slide Time: 45:08)
+
+It will describe set of paths from S to every vertex which are shortest paths. So, we can
+call this a rooted directed tree, rooted to indicate that there is a special vertex in this. We
+could call this as root of the tree. All the edges are pointing away from the root and all
+these paths are appropriate directed paths. They are the shortest paths. So, the algorithm
+functions exactly the way it did in undirected case, but this time it will contain only the
+vertices which are reachable in undirected sense.
+Now, the last thing I want to describe is edge weighted graphs. The edge weighted
+graphs can be expressed as this triple. This is again a set of vertices and set of edges.
+Now we are talking in terms of undirected graphs, but we have a third entity which is a
+function. In this context we are defining these functions as functions which assign a non
+negative integer, which we call weight to each edge. So, you know we can think of such
+graphs as two seven eight four nine twelve fourteen four and so on.
+So, such a graph is an edge weighted graph and given this, we can again define the
+notion of the weight of a path. So, something called a weighted path length. So, suppose
+you happen to have a path four seven two, then weighted path length is nothing but 4
+plus 7 plus 2 un weighted path length was 3. So, it is equal to 13. It is the weighted
+
+distance from, let us say of vertex x to V which is denoted now by the minimum of the
+weighted path lengths of all paths from S to V.
+So, we have the similar parallel notions. Earlier, we had the shortest path length or the
+distance which is defined without worrying about the weights. Now, we just take into
+account the weights and once again note that if you have a path, let us say x 1 x 2 x 3 x 4
+and so on, with weights alpha 1 alpha 2 alpha 3 and so on. If this is the minimum weight
+path from this Vertex, to let us say x n, then from any sub path you pick any two
+vertices. This has to be the shortest weighted path between these two vertices. If it was
+not, then I can replace it. If it adds some cycles, you remove those cycles. You can find a
+shorter path, may be lesser weight path from x 1 to x n. So, there is still there. So, final
+thing is because of this property, there is still a well defined shortest weighted path tree
+from every vertex. So, we can say that there exists a shortest weighted path.

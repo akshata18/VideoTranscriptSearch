@@ -1,0 +1,19 @@
+(Refer Slide Time: 33:56)
+Few examples would clarify this and we will see those examples. The function f (n)
+=2n+6 and g (n) =n. If you look at these two functions 2n+6 is always larger than n and
+you might be wondering why this 2n+6 is a non-linear function. That is because the scale
+here is an exponential scale. The scale increases by 2 on y-axis and similarly on x-axis.
+The red colored line is n and the blue line is 2n and the above next line is 4n. As you can
+see beyond the dotted line f (n) is less than 4 times of n. Hence the constant c is 4 and 0 n
+would be this point of crossing beyond which 4n becomes larger than 2n+6.
+At what point does 4n becomes larger than 2n+6. It is three. So 0 n becomes three. Then
+we say that f (n) which is 2n+6 is O (n).
+2n+6 = O (n)
+Let us look at another example. The function in red is g (n) which is n and any constant
+time g (n) which is as same scale as in the previous slide. Any constant time g (n) will be
+just the same straight line displaced by suitable amount. The green line will be 4 times n
+and it depends upon the intercept, but you’re n2 would be like the line which is blue in
+color. So there is no constant c such that n2 < c (n).
+Can you find out a constant c so that n2 < c (n) for n more than 0 n . We cannot find it.
+Any constant that you choose, I can pick a larger n such that this is violated and so it is
+not the case that n2 is O (n).

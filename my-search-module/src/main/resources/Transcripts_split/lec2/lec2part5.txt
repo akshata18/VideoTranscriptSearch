@@ -1,0 +1,11 @@
+(Refer Slide Time: 14:26) 
+
+ Now, the Definitions Section. The Definitions Section contains definitions and it also includes code that is supplied by the user. For example, the definitions are like macros. They are not regular expression on their own, but they are used in writing regular expression specifications. For example, digit; 0 to 9 and what is a number? Number is a single digit followed by 0 or more digits. Digit star implies 0 or more digits as it is usual in the regular expression notation. 
+
+Included code is all code, which is included between the two markers: percent flower 
+
+bracket and percent flower bracket. For example, float number int count 0 is a piece of code, which is supplied by the user for some initialization purposes. 
+
+
+
+

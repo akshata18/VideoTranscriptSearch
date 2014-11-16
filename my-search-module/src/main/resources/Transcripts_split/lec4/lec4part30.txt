@@ -1,0 +1,21 @@
+(Refer Slide Time: 00:34:58)
+
+Now you can say that this confirms saying that you have logged in as a guest here and
+you have quoted from my computer system and the quotation is registered into the
+database. This is extremely useful for various reasons because now the vendor doesn’t
+need to actually come to IIT madras. He can be anywhere, he can be situated in Delhi, he
+can be in Chennai, different parts of Chennai, all that he needs to do is he need to
+registered with me so that he has a id and the password. Once he has that he just logs into
+my system and able to quote into my system.
+And once he quotes that quote is actually stored into my database system and other
+processes and transaction in my database system will be able to actually access and do
+the necessary processing here. Now let us understand what are the key challenges are
+conceptual thing that we should be understanding in building this. Now for a minute let
+us understand this application, what we have as different entities in these applications and
+how do actually store this data or create my tables and my data and then how do actually
+make the transactions work with this particular data that I have underneath.
+Now the most important requirements in this particular case is to actually see that
+underneath I have actually created a database system. In this particular case I am using a
+MYSQL relational database system which actually allows me to actually create tables
+and store the database underneath server for me.
+

@@ -1,0 +1,14 @@
+(Refer Slide Time: 32:20)
+Let us see about the “big-oh” O-notation. If I have functions f (n) , g (n) and n represents
+the input size. f (n) measures the time taken by that algorithm. f (n) and g (n) are nonnegative
+functions and also non-decreasing, because as the input size increases, the
+running time taken by the algorithm would also increase. Both of these are nondecreasing
+functions of n and we say that f (n) is O (g (n)), if there exist constants c
+and 0 n , such that f (n)  c times of g (n)  0 n .
+f (n) =O(g(n)
+f (n)  c g(n) for n  0 n
+What does it mean? I have drawn two functions. The function in red is f (n) and g (n) is
+some other function. The function in green is some constant times of g (n). As you can
+see beyond the point 0 n , c (g (n)) is always larger than that of f (n). This is the way it
+continues even beyond. Then we would say that f (n) is O (g (n) or f (n) is order (g (n)).
+f (n) = O (g(n))

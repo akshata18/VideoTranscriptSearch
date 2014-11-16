@@ -1,0 +1,15 @@
+(Refer Slide Time: 46:01)
+Linear is when an algorithm has an asymptotic running time of O (n), then we call it as a
+linear algorithm. If it has asymptotic running time of n2 , we called it as a quadratic and
+logarithmic if it is log n. It is polynomial if it is nk for some constant k.
+Algorithm is called exponential if it has running time of an , where a is some number
+more than 1. Till now I have introduced only the big-oh notation, we also have the bigomega
+notation and big-theta notation. The “big-Omega” notation provides a lower
+bound. The function f (n) is omega of g (n),
+f (n) =  (g(n))
+If constant time g (n) is always less than f(n), earlier that was more than f(n) but now it is
+less than f(n) in the limit, beyond a certain 0 n as the picture given below illustrates.
+c g (n)  f (n) for n  0 n
+f (n) is more than c (g(n)) beyond the point 0 n . That case we will say that f (n) is omega
+of g (n).
+f (n) =  (g (n))

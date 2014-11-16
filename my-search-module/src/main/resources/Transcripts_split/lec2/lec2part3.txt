@@ -1,0 +1,11 @@
+(Refer Slide Time: 12:15) 
+
+ 
+
+Let us now look at LEX in order to understand how it does lexical analysis. This is a very trivial simple example of a LEX program. What it does is – it simple recognizes capital letters A to Z in the whole program. Now, let us look at some of the details of 
+
+such LEX programs. Whatever we have written here is called… A to Z plus is called a rule and what we have written below it, the yywrap, the main, etcetera are the program segments. 
+
+
+
+

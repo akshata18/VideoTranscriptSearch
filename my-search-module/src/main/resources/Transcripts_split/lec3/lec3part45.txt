@@ -1,0 +1,6 @@
+(Refer Slide Time: 49:12)
+
+In 1943 McCulloch and Pitts built a Boolean circuit model of the brain. A Logical
+Calculus of Ideas Immanent in Nervous Activity was published and it explained for the
+first time how it is possible for neural networks to compute.
+

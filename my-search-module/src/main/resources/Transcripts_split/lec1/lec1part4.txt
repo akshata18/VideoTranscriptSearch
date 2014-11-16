@@ -1,0 +1,11 @@
+(Refer Slide Time: 3:53)
+But these are the only two things we will be considering in this course. We would be
+spending more time on analyzing the running time of an algorithm and we will also spend
+some time on analyzing the space. We would be interested in the efficiency of
+algorithms, as a function of input size.
+Clearly you can imagine that, if I have a small input and my algorithm or a program
+running on that input will take less amount of time. If the input becomes 10 times larger,
+then the time taken by the program may also increase. It may become 10, 20 or 100
+times. It is this behavior of increase in the running time, with the increase in the size of
+input would be of our interest.
+Let us see the slide.

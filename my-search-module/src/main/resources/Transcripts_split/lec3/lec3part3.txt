@@ -1,0 +1,17 @@
+(Refer Slide Time: 02:56)
+
+The way we will do it is, we will look at the different components of intelligence and for
+each of these we will discuss ways of solving these problems. And then, depending on
+the functionality of the system that you wish to construct or engineer you can put together
+some of these solutions to get the full system. After you have taken the scores you should
+be able to appreciate the role of problem solving, the role of natural language processing,
+the role of computer vision etc in understanding human intelligence from a computational
+point of view.
+Some more points on objectives of the course:
+On taking this course you should be able to formulate certain types of problems as state
+space search problems and you should learn the efficient methods to solve them
+depending upon the characteristics of the problem space, you should be able to write
+programs that play games particularly two player games, you should be able to use
+learning to find patterns in data to find rules from data, you should be able to build expert
+systems for different diagnostic and other purposes.
+

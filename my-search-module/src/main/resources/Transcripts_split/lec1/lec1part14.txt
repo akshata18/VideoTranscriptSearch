@@ -1,0 +1,14 @@
+(Refer Slide Time: 14:45)
+Suppose if I have some five cards in your hand already, let us say 2, 7, 9, jack and queen.
+Then I am getting 8, so I am going to put it between 7 and 9. That is the right place it has
+to be placed in. I am inserting it at the appropriate place and that is why this technique is
+called insertion sort. I keep on doing this, till I have picked up all the cards and inserted
+in the appropriate place.
+Let us see the pseudo-code for insertion sort. I will give an array of integers as input and
+output is a permutation of the original numbers, such that it is sorted. The output is also
+going to be in the same array.
+A [1]  A [2]  _  A[n]
+This is the input, output specification. I am going to have 2 variables or indices i and j.
+The array is going to be sorted from a [1] through a [j-1]. The element should be inserted
+at the jth Location, which is the right place to insert. Clearly j has to vary from 2-n.
+For j 2 to n do

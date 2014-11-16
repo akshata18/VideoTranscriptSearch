@@ -1,0 +1,14 @@
+(Refer Slide Time: 16:29)
+
+So, so let us take this Graph.
+(No audio from 16:33 to 16:49)
+Right 1, 2, 3, 4. So, another Graph I can draw like this; let us this be G 1, and then let let
+me draw another Graph this is like this. So, first look these two since to be very different
+Graphs, but in fact this one can be map to these things a 1. So, this correspond to this say
+4 can be map to this one, say and 3 can be map to this thing; another this triangle comes
+
+here, and these two can be map to this. sorry you can be map to this. This 2, 2 1, 2 1
+there is an edge; 2 3, 2 3, there is an edge, 2 4 this edge you can see.
+So, you can see that, whenever there is an edge between say I and J here, the
+corresponding edge is present here also; otherwise, if there is a no edge then that edge ((
+)) there. So, this is the notion of isomorphism.

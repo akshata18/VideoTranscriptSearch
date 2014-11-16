@@ -1,0 +1,5 @@
+(Refer Slide Time: 11:26)
+
+Now, the next one is a connected Graph - the notion of a connected Graph. We say that a
+Graph is connected if each pair of vertices belongs to a path.
+

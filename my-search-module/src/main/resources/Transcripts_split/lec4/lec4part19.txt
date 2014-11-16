@@ -1,0 +1,9 @@
+(Refer Slide Time: 24:47)
+
+For example I can see here there is a company InfoTech limited which quoted for the
+specification 4 at 25000 rupees for G 33 chipset. For P 33 P 35 chipset actually it is
+available at 25500. So what this gives is actually all the vendors and whoever has quoted
+for the system and they prove to be in the rate contract and what are available in this rate
+contract can be searched by using this. One can in fact do a little, better search by saying
+for example if you want to actually take a specific processor or a CPU clock speed and
+also a vendor name then you can actually submit this quote here.

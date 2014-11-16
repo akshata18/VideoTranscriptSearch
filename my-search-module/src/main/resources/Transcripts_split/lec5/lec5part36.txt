@@ -1,0 +1,17 @@
+(Refer Slide Time: 47:09)
+
+So therefore, for K m n it will be right, independent this thing is n, because n is the
+bigger number. Now, of case we can like this, we can also ask what is the biggest
+independent set in a cycle C n. So, n is even when n is even, of case we can take 1, 10 we
+can take two like that all vertices skipping alternate things. So, we will get n by 2.
+So, when it is odd for instance we can consider this 3 vertex Graph, and then here we can
+see that this is one. So, then we can now take this or this. So, 3 by 2 floor is the answer
+this one. So, you can take a bigger bigger one. So, a 5 vertex Graph. So, we can take 1
+here, 2 here that is it; because if we if we take three here this adjacent to 2, if we take this
+one, this adjustment to one. So, this is 5 by 2 floors 2. So, so for an old cycle, it is n by
+two floor.
+Now, we are we have study to parameters now; the vertex cover - minimum cardinality
+of the vertex cover and the independent set. The maximum cardinality of the independent
+set; the next question is is there any relation between these two parameters, two see this
+thing.
+

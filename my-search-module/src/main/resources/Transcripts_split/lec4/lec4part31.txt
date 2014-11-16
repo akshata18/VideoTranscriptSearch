@@ -1,0 +1,72 @@
+(Refer Slide Time: 00:36:36)
+
+Now what are the different ways actually I can now put my data into this system? For
+example here is the key database system that I am using for actually creating this rate
+contract system that is called rate contract rc - april - 6 06 and this has actually got all these
+tables as you can see I have actually got several tables underneath which are all storing
+the information for me. For example one can see that there is an approved quotations for
+add on systems, this is one table. Then I have the approved quotation for computer that is
+another table and approved quotations for note books and approved quotation for printers.
+Now we can see these are all the tables in some sense they form the schema of the
+database and this is very critical in database design which you are going to study as part
+of your course here. How do I design my database system? The starting point for design
+of the database systems is actually understanding the different entities that are there in
+your domain. For example in this particular case there are vendors, there are users, there
+are people who select based on the what the vendors have quoted. So you have actually
+got different entities and they have some relationship with each other.
+For example vendors quote into your data and then there are people who actually pick
+information from this and choose. So actually you have to understand what are the key
+entities in your domain and how exactly each entity in terms of what attributes these
+entities have. For example one of the things that you can see here which is one of the
+tables for example here shown here is the quotations for computers which is something
+that I have used here, this is one of the tables.
+Now this table has different fields, these are entities for example if you see quotation
+computers has some kind of a table which comes from my entity which we will see in a
+minute what is the relationship and how do I actually break an entity in to a table. Now in
+this particular case you can see serial number, chipset, vendor name these are all the
+attributes or the fields that I have for this particular table. If you take for example vendor
+
+name and they all are registered with IIT madras then vendors will have a user name and
+a password and then their address. These are all the attributes that a vendor entity will
+have and when actually I have this vendor as an entity, one way I could possibly create
+this information in to my database is by actually converting this entity into a table.
+For example in this particular case as you can see a simple thing like users for example
+has, to the users of the system and they have the information on company user name and
+password being available in this particular table. So if you see user as an entity, these are
+the fields that will be available as part of that entity. So one easy thing when you are
+designing your database system is to actually convert the entities into tables, relational
+tables and store this information. Now there are lots of issues and in terms of converting
+an entity in to a table because if this information is duplicated for example this company
+name and id is duplicated in other places. For example it is available in other places, the
+company name is available in other tables then what happens is this duplication of data
+will create problems when you actually, a company says that now it has changed its
+name. Then you have to go and then start changing this name at multiple locations.
+So one of the key things that we understand, when we are designing database is that one
+fact at one location. So you don’t want to store the same piece of fact at multiple
+locations because it causes lot of problems for you. So database design concepts will
+explain how exactly this process of design could be done and how one can come up given
+an entity relationship diagram, how you can come up with tables like this. For example
+the database design in this particular case has all these 23 tables and this is the essential
+part when I design my system and this is the key of the whole concept and how do I
+actually arrive at these 23 tables and each table for example has its own for example in
+the case of quotations, you can see this is the schema that I have.
+You can see the table here has serial number, chipset, vendor name, unit price, bulk price
+bulk two prices. For example if they quoting for more then some number of systems
+whether there is a discount additional with monitor, without monitor all these stuff and
+then whether the monitor is what kind of monitor brand that they are supplying with me
+and what are the comments. For example whether he wants vat to be added or its
+included and all this. So this is what we understand as the database design.
+Now these schemas also changed. For example tomorrow I don’t want this bulk two price
+to be quoted because it is no longer my requirement. Then I drop this particular field
+from my quotation for computer which means that I no longer need this particular field to
+be available. This is what we understand as schema change in my system, in my database.
+And often these schemas change because as the systems evolve, business processes
+evolved and systems evolved schema changes are natural. And your system should be
+able to cope up with this schema changes that’s other important issue when we actually
+deal with databases.
+Now in this particular case we will go and see the quotations for computers and see what
+we have done earlier in terms of these quotations whether that is available in this
+particular case. As you can see here I am using the php admin and directly getting into
+
+the database. For example in the particular case, I can go and then browse for example
+the values of the database.

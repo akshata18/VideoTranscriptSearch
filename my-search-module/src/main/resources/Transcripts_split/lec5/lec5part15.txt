@@ -1,0 +1,14 @@
+(Refer Slide Time: 14:50)
+
+So, here let us let us draw a Graph. So, this is our G here; 1, 2, 3, 4. So, now, consider
+another Graph like this. So, looks very different, but then we say that these two Graphs
+are isomorphic. Because it it will name it like this a, b, c, d. Because I can map vertex.
+So, the function f will map 1 to a. So, that is one will be map to, a a to can be map to can
+be map to b, 3 can be map to, c and 4 can be map to d, this is a function f. So, as we
+wanted. So, whenever there is an edge; that means, 1, 4 is an edge. So, the corresponding
+vertices a and d, between a and d there is an edge. So, we say that if. So, for similarly 1,
+3 there is no edge. So, between a and c the corresponding vertices here, a and c there is
+no edge here.
+So, thus therefore, we say that there is an isomorphic. These two Graphs are isomorphic.
+Essentially; that means, we have a same Graphs, but maybe we have drawn a differently
+something like that. And so we can take another example for instance.

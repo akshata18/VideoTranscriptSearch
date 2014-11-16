@@ -1,0 +1,45 @@
+(Refer Slide Time: 40:35)
+
+This is a very important truth that in order to prepare a plan, you must identify the
+activities not only qualitatively but quantitatively.
+
+You must learn to measure those aspects which we want to bring under the management
+control. So without measurement, planning is not possible. Without planning,
+management is not possible. It is very important that first we learn to make
+measurements; we measure those aspects of the project which we want to bring under the
+control of the management. Make a plan and then perform the management as we
+continue with the development. That plan allows progress to be measured. Since it
+consists of different activities, as we complete these activities, and as we know the effort
+distribution among these activities, we know how far we have progressed and how much
+still remains to be done. So when you have the plan you can measure the progress.
+We generally prepare this plan before the development begins. As we said earlier it may
+be produced along with the analysis or even before the analysis is completed. So we
+prepare a plan as soon as we have a good idea about the complexity of the project and we
+start getting a good feel of the requirements. Once we have done this, obviously this plan
+needs to be constantly updated. We will get management inputs from the development
+team. And based on the progress of the work, we may have to update the plans we have
+already made. How do we prepare the project plan? What are the important steps that
+need to be taken in this? The first important step is that we must estimate the cost and
+effort. This is the quantification that we talked about just now.
+We need to measure how much effort is involved in carrying out a project. Now this will
+naturally be based on the complexity of the project, the scope of the project, productivity
+levels of our people, who will be implementing the project, and also other historical data
+of similar projects. We will naturally benefit from the previous experiences. So we
+should clearly keep a record of other projects performed by us. Understand our
+productivity levels and then estimate the effort or the cost for the new projects that we are
+undertaking. There are different models available for cost and effort estimation. And in
+this course later on you will learn more about these models. Once we have done the effort
+estimation, then we select the right development process.
+We said earlier that there can be many different types of processes. So you choose the
+one which is best suited for task at hand. You define the milestones and you prepare a
+schedule. In order to prepare this schedule we of course need to know how the effort is
+distributed over the different steps. We had seen one graph where we had shown the
+relative effort distribution over different steps in a typical waterfall kind of a
+methodology. We should have our own data from our past experiences. So that the
+overall effort estimated by us can be distributed over these different steps and we can
+prepare a detailed schedule for execution of the project. And then we decide on project
+staffing; who will perform the different steps, how many people will be made available,
+what are the scheduling requirements, what are the overall calendar time in which the
+project needs to be completed. We will also make explicit quality control plans. In the
+overall plan, we will schedule reviews and inspections at appropriate points.
+

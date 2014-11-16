@@ -1,0 +1,6 @@
+(Refer Slide Time: 10:55)
+
+So, in the next for next example let us more a clearer. Here I have selected this vertex,
+this vertex, this vertex, and this vertex. But the edges are only this, this, this, and this.
+This edge is not selected. So, this is not an induced Sub Graph; to make it an induced
+Sub Graph, we have to add this also. So, this is an induced Sub Graph.

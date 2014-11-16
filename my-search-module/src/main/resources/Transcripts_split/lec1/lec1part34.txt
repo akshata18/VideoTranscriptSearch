@@ -1,0 +1,12 @@
+(Refer Slide Time: 48:48)
+When f (n) is O (g (n)) and the function f is less than or equal to g or f (n) is less than c (g
+(n). The analogy with the real numbers is when the number is less than or equal to
+another number.  is for  and  is for =.  (g (n) is function and f=g are real numbers.
+If these are real numbers, you can talk of equality but you cannot talk of equality for a
+function unless they are equal. Little-oh corresponds to strictly less than g and Littleomega
+corresponds to strictly more. We are not going to use these, infact we will use
+Big-oh. You should be very clear with that part.
+The formal definition for Little-oh is that, for every constant c there should exist some 0 n
+such that f (n) is < c (g(n) for n > 0 n . f (n)  c (g(n)) for n  0 n How it is different from
+Big- oh? In that case I said, there exist c and 0 n such that this is true. Here we will say for
+every c there should exist an 0 n .

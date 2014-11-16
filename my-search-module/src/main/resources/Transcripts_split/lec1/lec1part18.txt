@@ -1,0 +1,15 @@
+(Refer Slide Time: 24:36)
+On an average what would you expect? In the best case you have to compare only against
+one element and in the worst case you have to compare about j elements. In the average
+case it would compare against half of those elements. Thus it will compare with
+2
+j , even
+when the summation of
+2
+j where j goes from 2 to n, this will be roughly by
+2
+4
+n and it
+behaves like n2 . This is what I mean by the best, worst and average case. I take the size of
+input, suppose if I am interested in sorting n numbers and I look at all possible instances
+of these n numbers.

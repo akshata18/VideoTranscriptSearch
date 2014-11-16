@@ -1,0 +1,19 @@
+(Refer Slide Time: 24:48)
+
+So, we can consider this cycle for instance simpler cycle the triangle 3, it is called a
+triangle. So, or 3 cycles C 3 is this a bipartite Graph. So, suppose this is a bipartite
+Graph, then we should be able to place the vertices in two groups, in such a way that the
+edges go from one side to the other. So, let say one is placed in this thing without lose of
+generality this side. Now, if one is placed here, this 3 and 2 should be on the other side. 2
+and 3 should be on the other side, because there is an edge between 1 and 3, 1 and 2, but
+then between 3 and 2, there is an edge it has to come here. So, this will become a
+problem right. So, this will be flop.
+So therefore, this triangle cannot be a bipartite Graph. So, what kind of cycles are not
+Bipartite. So, with some thought we can see that, every even cycle can be place like this,
+but the odd cycles cannot place like this. So, you can try to place 1, 2, 3, 4, 5, 6, 7 vertex.
+So, this 7 vertex C 7 can this be placed like this. So, it is not possible; for instance if I
+place it in the first part, and then I will have to place this and this in the other part, and if
+I then I will have to place this in the first part, and then I will have to place this in the red
+part, this also has to be in the red part, there is an edge between these two red parts. So,
+therefore, these cannot be a bipartite Graph. So, this is part a bipartite Graph is.
+

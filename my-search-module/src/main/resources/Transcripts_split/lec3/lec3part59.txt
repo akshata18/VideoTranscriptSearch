@@ -1,0 +1,11 @@
+(Refer Slide Time: 56:16)
+
+Question 1 is, define intelligence.
+Question 2: What are the different approaches in defining Artificial Intelligence?
+Question 3: Suppose you design a machine to pass the Turing test what are the
+capabilities such a machine must have?
+Question 4 is, design ten questions to pose to a man or a machine that is taking a Turing
+test.
+
+Question 5 is, will building an AI computer automatically shed light on the nature of
+natural intelligence, do you think so?

@@ -1,0 +1,11 @@
+(Refer Slide Time: 00:13:15)
+
+Now you can see I come back to LIC’s portal and it says thank you for paying premium
+though the payment gate way where the receipt has been generated for the payment, click
+here to view or print. A confirmation mail with a copy of the receipt has been sent to the
+mail id provided at the time of registration.
+
+So you can see that now it will give me the full registration, the receipt which is needed
+for me if I storing it for future requirements to show that I have paid this premium. This
+is important because at a later point of time, we need to say that yes we have paid this
+premium, so we need this receipt which tells that this is the receipt.

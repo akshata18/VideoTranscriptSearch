@@ -1,0 +1,7 @@
+(Refer Slide Time: 19:54)
+
+The next notion I want as that is a Bipartite Graph, we say that a Graph G is bipartite; if
+it is vertex set is the union of two disjoint, possibly empty independence sets called a
+partite set of G. So, a subset... So, what do I mean by independent sets. If I if I consider a
+subset of a Graph, and look at the induced Sub Graph of it. And if you (( )) any edge in
+it, then it is called an independence set of that Graph.

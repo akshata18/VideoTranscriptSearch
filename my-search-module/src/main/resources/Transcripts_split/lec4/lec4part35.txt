@@ -1,0 +1,33 @@
+(Refer Slide Time: 00:48:53)
+
+But as opposed to this kind of transactions, one can even think of the other kind of
+transactions which we saw here. We actually said that one can login as a guest and once
+he logs in as a guest now, you can sort of quote for the computer system. Now once he
+says that for a particular system, 3 is quoting now and then he give some data here saying
+that please take my quote as let us say 12000 and then give the other thing as 8000. Then
+I think what we are doing in this process is, we are actually updating our underneath
+database.
+Once he says quoted what is happening is you will be seeing that the whole quote has
+been registered into the database which means that the data has been now been written in
+to the database. So these are actually write transaction, they are writing in to my database.
+There are some transactions which can go and both do both read as well as write from my
+database. To summarize what’s happening here, what we are trying to do is given an
+application like this, we have been able to design the underneath tables which are the
+database models and store the data in that particular model and have our transactions
+which are actually accessing this data and supporting various business processes that I
+have in this particular case searching through my rate contract, allowing my vendors to
+quote into the database and allowing my faculty to choose and then order the related
+computer systems.
+So the entire business processing of the data is automated using an underlining database
+system and hence database systems become extremely critical in terms of supporting
+automating this processes and eliminating manual processing and manual production of
+the papers so that the whole work flow gets completely automated and we have a simple
+and elegant and nice way of actually handling our business processing systems.
+Now what you are going to see in this course as part of this course is you are going to see
+how this database design can be done, what is the meaning of transactions and how they
+operate and how do they actually maintain the consistency of the underlining data and
+provides certain properties when we develop these systems and make it available for day
+to day use for the people. So these issues are going to be covered in depth in the next 41
+lectures that we have in this course. Thank you.
+
+

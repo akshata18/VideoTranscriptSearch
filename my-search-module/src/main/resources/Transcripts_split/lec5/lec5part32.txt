@@ -1,0 +1,24 @@
+(Refer Slide Time: 39:12)
+
+So, so we... So, that it is like this for instance m vertices here, n vertices here. So, is a
+bipartite Graph, this is an independence set, this is an independent set nothing inside, it
+no edges there. And then for instance, we we can say it look like this. So, all the edges of
+there in here, all the edges are there from this to this right. We have to cover all these
+edges. So, what is the minimum? So, if you if you see that suppose if I take all these
+vertices, then definitely it will cover all these edges, because every edge has to have at
+least one end point in this side or if I take all the vertices from this side, that is also
+enough.
+So, since we are looking for a minimum vertex cover. So, we will take this smaller side,
+if m is less than equal to n. So, we can go for this thing; this will be this side for instance
+this is A and this is B. Then A will be a vertex cover, but is it minimum that is a
+question. So, can we do in with less than m vertices? So, it look it is not possible,
+because suppose we can do. And then so, if we do with less than m vertices; definitely
+there are a vertex here, say x which is not part of the vertex cover, x is not part of the
+vertex cover.
+Similarly, they should be a vertex here y, which is which is not part of the, because this
+is more than n is more than m. So, we have taken less than m vertices. So, the should be
+a y. So, and also because it is a complete bipartite Graph, there is an edge between these
+two - this edge. Who’s going to cover them. So, edge between. So, x y they should be an
+
+edge between them, whose going to cover that edge. So, it is not possible to cover all the
+edges of this complete Bipartite Graph K m n with less than m vertices.

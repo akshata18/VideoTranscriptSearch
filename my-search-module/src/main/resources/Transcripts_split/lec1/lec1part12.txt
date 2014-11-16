@@ -1,0 +1,9 @@
+(Refer Slide Time: 12:37)
+Any set of numbers which are in non-decreasing order does not make an output.
+Algorithm should sort the numbers that were given to it and not just produce the
+sequence of numbers as an increasing order. Clearly the running time depends upon,
+number of elements (n) and often it depends upon how sorted these numbers are. If they
+are already in sorted order then the algorithm will not take a long time. It also depends
+upon the particular algorithm we use. The running time would depend upon all these
+things. The first sorting technique we use is the one that you have used very often.
+Let us say when you are playing game of cards.

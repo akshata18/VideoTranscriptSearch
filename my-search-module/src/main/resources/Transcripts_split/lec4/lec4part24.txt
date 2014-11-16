@@ -1,0 +1,4 @@
+(Refer Slide Time: 00:32:06)
+
+For example in this particular case I have a computer system configuration. Now for the
+computer system configuration there are different kinds of specifications which I need.

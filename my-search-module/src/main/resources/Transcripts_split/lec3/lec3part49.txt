@@ -1,0 +1,10 @@
+(Refer Slide Time: 50:48)
+
+In 1956 a meeting was held in Dartmouth where the first researchers in AI met. And in
+this month long meeting the term Artificial Intelligence was adopted. This conference
+
+brought together the founding fathers of AI for the first time. In 1961 James Slagle wrote
+the first symbolic integration program. This program saint could solve calculus problems
+at the college freshman level. In 1963 Thomas Evan’s program analogy was designed, it
+could solve IQ test problems. In 1963 Feigenbaum and Feldman wrote a collection of
+important articles about AI.

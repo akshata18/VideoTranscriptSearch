@@ -1,0 +1,15 @@
+(Refer Slide Time: 49:12)
+The slide which is below defines the difference between the functions. I have an
+algorithm whose running times are like 400n, 20n log n, 2 n2 , n4 and 2n . Also I have
+listed out, the largest problem size that you can solve in 1 second or 1 minute or 1 hour.
+The largest problem size that you can solve is roughly 2500.
+Let us say if you have 20n log n as running time then the problem size would be like
+4096. Why did you see that 4096 is larger than 2500, although 20n log n is the worst
+running time than 400n, because of the constant. You can see the differences happening.
+If it is 2 n2 then the problem size is 707 and when it is 2n the problem size is 19.
+See the behavior as the time increases. An hour is 3600seconds and there is a huge
+increase in the size of the problem you solve, if it is linear time algorithm. Still there is a
+large increase, when it is n log n algorithm and not so large increase when it is an
+n2 algorithm and almost no increase when it is 2n algorithm. If you have an algorithm
+whose running time is something like 2n , you cannot solve for problem of more than size
+100. It will take millions of years to solve it.

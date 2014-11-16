@@ -1,0 +1,34 @@
+(Refer Slide Time: 20:55)
+
+There are some shortcomings in the waterfall model. One of the main criticisms of
+waterfall model is that it goes linearly and it assumes that all the requirements can be
+clearly defined during the analysis phase. There are many situations where requirements
+may not be clearly known. This often happens when there is no manual counterpart for
+the problem that we are solving. If a manual counterpart exist, that means the function
+business function is already been carried out manually and we are planning to automate
+that, then in this case it is easy to define the requirements. But in a situation where there
+is no such manual counterpart, when the system is been planned first time, then the
+requirements may not be clearly known.
+Here is an example. We know that railway reservation has now been automated fully.
+Before that, however the manual system existed. We knew what is the role or what are
+the tasks involved in the railway reservation. You want to reserve a seat on the particular
+train, you may want to cancel it, you may get waitlisted, waitlists have to be arranged and
+there is a method for arranging. All those things were already defined as functional
+activities. And therefore one can say that as far as the railway reservation is concerned
+the manual system existed, and therefore it is possible to clearly define the requirements
+in this case. But there can be other examples where there may be no manual counterpart.
+For example, say a central bank wants to build a knowledge management system.
+It believes that there is so much knowledge that is available with its employees in order
+to carry out their day to day task. It would like to capture this knowledge, build a
+repository, so that this knowledge is easily available to all other people in the
+organization. Now this is something which is quite new and it is difficult to define a SRS
+for an application like this. There is obviously some kind of uncertainty involved in terms
+of what it will consists of.
+
+So this is clearly one issue when we try to apply for the waterfall model, Which the
+requirements may not be clearly known and it may not be possible to carry out analysis
+phase once for all and then never come back for revising the requirements. The other
+issue is that the waterfall model assumes that the requirements are quite stable and that
+they do not change with time. Now, this is not the case because the software development
+itself may be a long process, requiring months or years and during this time one cannot
+assume that the requirements will not change.

@@ -1,0 +1,15 @@
+(Refer Slide Time: 36:00)
+
+So in this case we have development going on in cycles and as we go through the cycles
+the different risk issues are addressed and more refinements are done to our strategies, to
+the functionalities in the case of spiral model. So spiral model basically identifies risks at
+every step and it identifies the ways of addressing those risks either by following the
+prototyping methods, or going through simulations, or carrying out benchmarking.
+So at every development step we will decide in what way we want to follow. It is
+primarily a risk driven approach. The spiral model consists of different cycles. In each
+cycle we try to address some risk element that we see. And we plan the development, in
+order to identify ways of addressing that risk. So if we have a risk perception about what
+kind of user interfaces we should build, then we do prototyping. If a user interface and
+performance issues are quite well understood, then the risk may be just the development
+risk. In that case we decide to follow the waterfall model.
+

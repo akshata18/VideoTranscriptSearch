@@ -1,0 +1,18 @@
+(Refer Slide Time: 22:46)
+
+In that case, the d value of V is less than or equal to d value x 1 plus 1. This one we have
+proven. So, the vertex that comes earlier, its d value is lesser or equal to x 1. So, d of V is
+less than equal to d x, which is equal to K minus 1 plus 1, that is equal to K. So, we
+established that d V is less than or equal to K, but take a look at this claim. Here, d V can
+never be less than delta of S V. Thus, delta of S V is K. So, putting it together we
+conclude that this is say, d is less than equal to K. This is saying d V is greater than equal
+to K. Hence, d V is equal to K.
+So, we have proven that d V is equal to delta of S V, for V as well. So, we just proved
+that d V is equal to delta S V, the shortest path length from S to V. This is also the
+distance of V from S for every vertex. We also proved that there is a path from S to
+vertex V of length of this. Hence, we can build by just tracing the parent going from
+vertex to its parent and so on. So, we can from this information, deduce that path as we
+output here the graph for this vertex. We set those edges, which are from vertex to its
+parent on for every vertex other than S. So, we have all information in this graph about
+the shortest path. Now, let us take a look at the time and space complexity right.
+

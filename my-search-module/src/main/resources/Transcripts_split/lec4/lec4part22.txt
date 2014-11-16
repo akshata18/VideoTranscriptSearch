@@ -1,0 +1,54 @@
+(Refer Slide Time: 26:43)
+
+For example in this particular case you can see that I am actually accessing the data by
+actually saying that I actually need to retrieve the data which matches a particular
+specification number and a particular vendor number. So I am actually going into the data
+and trying to match the required values and retrieving the data as they match that
+particular value that I have supplied.
+
+It’s quite possible that I actually navigate through data which means that I actually
+retrieve at one level. For example you can see when actually go with specification
+number I am actually retrieving the data at one level. Now we can see these are all the
+data that I have as for a specification number is concerned. Now I can say for 5 is what I
+am actually choosing which means that I am actually drilling down, I am navigating
+using into the database by saying for 5 now I need the information. So I get to the second
+level by saying please get the information on 5 for me.
+This is what we understand as a navigational query where you are navigating through the
+data, has a post to actually retrieving all the information that satisfies a particular
+criterion. For example one can say I want to find out all the students who have registered
+my database systems course or my paradigm programming course or my grid computing
+course or I want to find out for example a further intersection of the sets by saying I want
+to get all those students who registered for my paradigm programming course and also
+my course on grid computing.
+(Refer slide time: 00:27:54)
+
+So in that sense we have various ways we retrieve this data and hence the data model
+becomes extremely important, what is the kind of a data model we have becomes
+extremely important. And also another interesting fact that we should see when we see
+data models is that here is a case where the data is well organized as a table. For example
+I have an IIT serial number and have an IIT specification, I have a chipset, have a
+company name unit price, unit price without monitor, category thing like this. This is
+more like a table organization of the data.
+Now lot of information if you see for our business purposes gets very easily organized as
+flat tables of this nature and that is one kind of a data model that is extensively used while
+storing the data. Their other data models that are possible for example you could have
+data models where you have an object where the information could be unstructured
+
+which could mean that you have a field name and you have a corresponding value but
+then one field in that particular object could actually point to another object and that
+could point to another object. When example for such a kind of data model or real world
+data model is for an example, if you want to store the information about maruti 800, what
+are all the parts maruti 800 has, it fits more as a object data model because you are going
+to specify now what kind of engine maruti 800 has and within that what kind of other
+parts that engine has.
+So you are going to actually store the information more in terms of objects and the
+objects linking each other and that becomes an object data model where you have a flat
+model like this, flat table base model is often also called the relational model. And as you
+go into this course you will see in detail how the relational model can be used for storing
+data and how the relational database system can be used for developing applications that
+fit very well into the relational model.
+What I have shown here is a simple example of using the relational model for building
+this computer rate contract system. I will further go down and show how the relational
+model fits in here in terms of developing the application. One of the important things that
+we should note down here is for example this also enables the vendors to come in and
+give information of what they have directly once I have enabled this database system.

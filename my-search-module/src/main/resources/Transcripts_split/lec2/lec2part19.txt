@@ -1,0 +1,8 @@
+(Refer Slide Time: 53:21) 
+
+ 
+
+This is the way the attributes are computed and then they are passed on to the start 
+
+symbol. 
+

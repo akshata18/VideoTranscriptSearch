@@ -1,0 +1,10 @@
+(Refer Slide Time: 35:31)
+
+Now to get familiar with the what is a vertex cover, we can ask the some some take
+some examples and see, what are the what is the cardinality of the minimum vertex cover
+
+in those Graphs. For instance our first Graph, the complete Graph K n what is a
+cardinality of the minimum vertex cover in a complete Graph.
+So, it is... So, so easy to say that for instance if there are ten vertices, and if I just take
+one vertex, this one vertex cannot cover all the edges right. So, how many we will need
+to cover.

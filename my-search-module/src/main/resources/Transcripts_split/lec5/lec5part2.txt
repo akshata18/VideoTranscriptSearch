@@ -1,0 +1,9 @@
+(Refer Slide Time: 01:04)
+
+So, there are many other books in Graph theory. So, you can use those books also if you
+like, but most of the time I will be taking material from this books. To begin with, let us
+consider the question, what is a Graph? Is say it is a triple, the vertex set V of G, the edge
+set E of G and a relation which associates to each edge two vertices; these two vertices
+are called the end points of the edge; to an edge we associates two vertices which are
+called an end points of its edge.
+

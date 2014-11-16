@@ -1,0 +1,13 @@
+(Refer Slide Time: 44:04)
+
+That that will give that introduces this notion of vertex cover. Now, let us consider
+another parameter, it is called we have already talked about independent set. So, the
+independent set means, if it is a subset of vertices such that if you take the induced Sub
+Graph on this set of vertices, then what we do not see any edges in it. It is it is it is a
+without any edges, then it is an independent set.
+So, given a Graph G, we can ask what is a biggest independent set in it. What is a biggest
+cardinality - maximum cardinality of any independent set in it. So, that number the
+biggest cardinality if an independent set in a Graph is a called the independents number
+or stability number of G. And this famous parameter is the notation for these things is
+alpha of G.
+

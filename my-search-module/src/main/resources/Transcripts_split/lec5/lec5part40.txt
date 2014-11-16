@@ -1,0 +1,35 @@
+(Refer Slide Time: 52:35)
+
+So, together what we get is cardinality of MVC of G is equal to n minus alpha of G. So,
+in other words, what we are trying to tell is. So, if you remove a minimum vertex cover
+what remains is a maximum independent set. Similarly, if we remove a maximum
+independent set; what remains is minimum vertex cover. So, this cardinality of the
+minimum vertex cover, we can probably denote by say beta of G, because so we are
+using alpha of G for the independent set, and we can use say for the minimum vertex
+cover a cardinality beta of G. So, then what we get is the cardinality of this, the
+
+cardinality of this, the independent set - maximum independent set and minimum vertex
+cover together is the total number of vertices alpha of G plus beta of G is equal to n here n is number of vertices.
+So, in this class. So, to summarize we have introduce some basic terms that I used in
+Graph theory. So, of case there are many more terms that we have to introduce, but as
+the class lectures go on we will talk about more and more things. But I would request the
+listener to also go through some introductory chapter from any of these books I mention.
+So, and solve some problems. So, that he can think a long the class and understand things
+faster, and also it is more it is very boring to introduce every small definition in the class.
+So, that we can use the forty lectures available for more serious discussion, and then after
+that we introduce the few notions like a vertex cover, then we told the minimum vertex
+cover is the one with the minimum number of vertices in it. And another notion
+independent set; the we talk to about the cardinality of the maximum independence set
+that is called the stability number, the notation is alpha of G. And then we related these
+two parameters alpha of G, and the cardinality of the minimum vertex cover we called it
+beta of G is show that when you some then together we get the total number of vertices.
+This is, because when you remove a vertex cover what we see is an independence set.
+Similarly, therefore, when we remove a minimum vertex cover what we see is a
+maximum independence set and vice versa; that is a reason for that. So, this summarizes
+the lecture today. In the next class, we will look at matchings and then we will connect
+the matchings - the notion of matchings with the vertex cover, and independent set
+etcetera. That will be the aim of the next class. It would be better if the student can as I
+mentioned go through some of the introductory material, in many of these text books; so,
+that the next class will be much easier.
+
+

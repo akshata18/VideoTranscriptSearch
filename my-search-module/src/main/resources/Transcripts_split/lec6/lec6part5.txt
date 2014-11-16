@@ -1,0 +1,23 @@
+(Refer Slide Time: 14:48)
+
+So the project plan is one deliverable, feasibility report is another deliverable. One of the
+important deliverable is requirements document which is also called software
+requirement specification or SRS for short. SRS is very important baseline and defines
+the functions that the software will perform for us. Obviously the SRS comes from the
+analysis step. The next step is the design document. It defines the different components of
+the software and how they will be implemented. You may have a detailed design
+document. This document may specify individual units which will be implemented by
+different programmers. We may have then specific test plans and expected test reports.
+What it implies is that testing is not a on the fly kind of the task. Tests are planned well in
+advance. They define what inputs will be given to the system and what outputs are
+expected and whether the expected outputs are correct and the performance is as
+expected. So test plans are made well in advance and as soon as the software is ready the
+test plans are carried out and the workability of the software is demonstrated through the
+test plans.
+Of course the source code is an important deliverable and a deliverable which is in
+executable form. Unlike other deliverables which are documents, this is a deliverable
+which actually would be loaded on the computer and will be executed which actually
+defines the software contents. And then we will also have different types of manuals or
+documents which will be important for users and for administration of the software, for
+installation of the software and so on.
+

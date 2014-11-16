@@ -1,0 +1,7 @@
+(Refer Slide Time: 00:09:39)
+
+So once you logged in and all those informations relating to you is available, this
+becomes a one single point access for you. And now we can say for example, one of the
+
+transactions that I want to execute now is I actually want to actually do an online
+premium payment.

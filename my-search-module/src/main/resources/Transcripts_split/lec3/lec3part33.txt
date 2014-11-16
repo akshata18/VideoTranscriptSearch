@@ -1,0 +1,8 @@
+(Refer Slide Time: 43:22)
+
+But there are many limitations to what AI cannot do yet. AI systems currently cannot
+understand natural language robustly. AI systems cannot surf the web yet or interpret an
+arbitrary visual scene. We have seen that they can recognize facial images or work in a
+narrow domain of recognition. AI systems cannot fully learn a natural language. They
+cannot construct plans in all sorts of dynamic real time domains in general. And AI
+systems do not yet exhibit true autonomy and intelligence.

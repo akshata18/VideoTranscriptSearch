@@ -1,0 +1,20 @@
+Software Engineering
+Prof. N. L. Sarda
+Computer Science & Engineering
+Indian Institute of Technology, Bombay
+Lecture - 2
+Introduction to Software Engineering
+Challenges, Process Models etc
+(Part 2)
+This is second lecture on introduction to software engineering. Let us start by
+summarizing by what we saw in the first lecture. We understood the challenges in
+developing the large software. We want to do it in given time, within given resources and
+meet user’s requirement. This is indeed very challenging. We then saw the benefits of
+engineering approach which consists of defining different milestones, different stages in
+the development and carrying out periodic review and having a well-defined
+methodology for the development. Then we have talked about different types of software
+processes. These are processes for development of software, for project planning and
+management, for configuration management and then for managing the software
+processes themselves, because they are not fixed and static. They keep changing. So any
+large software development organization will need to invest time and resources in
+keeping the software processes up to date and state of art.

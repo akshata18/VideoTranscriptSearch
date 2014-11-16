@@ -1,0 +1,6 @@
+(Refer Slide Time: 07:54)
+
+These are four main components of today’s lecture. Definition of AI, example systems,
+approaches to AI and the brief history. First we will take up the definition of AI.
+Now, what is Artificial Intelligence?
+There are too many definitions of this term floating around.

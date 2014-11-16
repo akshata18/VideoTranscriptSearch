@@ -1,0 +1,14 @@
+(Refer Slide Time: 30:03)
+
+So, let us take an example to explain this. So, so consider this Graph - simple Graph. Say
+simple Graph, now I am asking for a collection of vertices such that, every edge has one
+of the end points in this set. For instance, let me show an example. So, so I will let me
+take this vertex, and this vertex, and this vertex. Now, you take any edge. Suppose, this
+edge; it is one red end point. So, this edge it is one of the in fact, both the end points are
+red. Here another edge, it is one of the end points as red. So, another edge, so one end
+point is red, and another edge one end point is red.
+So, every edge is such that, it has at least one end point as red. So, then these 3 vertices,
+the set of these 3 vertices, red vertices called a vertex cover of this Graph. So, interesting
+way of explaining it is suppose you consider museum. So, museum say let me draw say
+something like this.
+

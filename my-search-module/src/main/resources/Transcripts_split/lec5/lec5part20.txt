@@ -1,0 +1,10 @@
+(Refer Slide Time: 20:31)
+
+So, for instance we can consider in this Graph for instance, we can consider this say, say
+some of these vertices say this one, this one, this one, this one. So, these 4 vertices. So, if
+
+I consider the induced Sub Graph on these 4 vertices will just get something like this
+right, right they want any edge on it right. So, therefore, this this will be an empty sorry
+this is this is an independent set this is called an independent set of this. So, we say that
+the Graph G is bipartite, if we can partition the vertex set of G into two groups; such that,
+the each of this collection group is inducing and independent set in the Graph.

@@ -1,0 +1,17 @@
+(Refer Slide Time: 21:35)
+
+So, we can take some simple examples like. For instance I can consider a cycle. So, is
+this a sorry. So, let say consider this cycle, this cycle. So, now, how do I partition it into
+two collections, such that such that each collection induces and independent set. For
+instance, I can say this I will put it in one part, this I will put it in same part this; so, I
+will put it in the same part. And the other one set this, this and this I will put in the other
+part. So, these black vertices form induce and independence set in these Graphs;
+similarly, these induce and independent sets in this Graph.
+So, every edge in this Graph is going from a red vertex in the black vertex. So, for
+instance you could have grouped. So, if I number it has 1, 2, 3, 4, 5, 6. I could have
+placed 1, 3 and 5 my black vertices on this side. And the red vertices say 2, 4 sorry; 2, 4
+and 6 on this side on the edges will be1, 2, 3, 4, 5, 6, 1. So, the edges always going from
+one side to the other. So, this is one way of viewing the Bipartite Graph. So, a Graph is a
+bipartite Graph if I do these things right in a Graph. So, is it possible that any Graph is
+Bipartite.
+

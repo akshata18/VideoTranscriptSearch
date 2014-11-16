@@ -1,0 +1,8 @@
+(Refer Slide Time: 00:10:19)
+
+And once I want to do this online premium payment, I have to choose the policies for
+which I want to pay the premium online and it suddenly gives me a lot of options here. I
+can say this is the premium for which I want actually do it online. So now what I will do
+is I will say submit, so this should take me saying that yes this is the premium that I have
+to confirm which says that would you like to pay for this particular policy, this much
+amount of premium online.

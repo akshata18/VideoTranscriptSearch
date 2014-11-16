@@ -1,0 +1,8 @@
+(Refer Slide Time: 20:03)
+
+Then these tasks unfortunately have not all been easy to do by machines. Let us look at
+some of the basic intelligent behavior in human beings. Perception that is the ability to
+see, hear sensory information.
+Reasoning: Reasoning with the information that we have.
+Learning: Learning for new situations, understanding natural language, communicating in
+natural language, solving problems.

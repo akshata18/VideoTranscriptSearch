@@ -1,0 +1,11 @@
+(Refer Slide Time: 00:54) 
+
+ Let us begin with a block diagram of what is known as a language processing system. In a language processing system, the source program, for example, goes through a preprocessor. For example, in a C program, you have a number of a macros such as hash define, hash include and so on and so forth. These are passed through the preprocessor. The preprocessor expands these macros and takes appropriate action at the compiler level itself and there is no code generated for such macros. Such modified source program is then fed to a compiler. The compiler generates machine code. The machine code could be in the form of an assembly code or it could be directly binary of the machine, etcetera. 
+
+In the case that it is an assembly language program, it is fed to an assembler, which converts it into the machine language of target machine, and then such modules are produced probably individually. Therefore, a linker or loader is needed in order to 
+
+combine such modules. Finally, the loader gives out a complete relocatable… All these combined together will be the task image of the machine. This can be run on a machine. 
+
+
+
+

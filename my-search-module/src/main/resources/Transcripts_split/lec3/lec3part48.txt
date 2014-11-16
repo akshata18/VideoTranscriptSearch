@@ -1,0 +1,8 @@
+(Refer Slide Time: 50:09)
+
+He illustrated his ideas on machine intelligence by reference to chess. He propounded the
+possibility of letting the machine alter its own instructions so that machines can learn
+from experience. In 1952 to 56 Samuel designed a checkers playing program. In 1956
+Allen Newell and Albert Simon designed the logic theorist. Then the general problem
+solver was built by the same people. In 1959 Gelernter developed the geometry engine
+for solving plane geometry problems.

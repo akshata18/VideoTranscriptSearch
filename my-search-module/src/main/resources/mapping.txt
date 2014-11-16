@@ -1,0 +1,10 @@
+lec1.txt 4TzMyXmzL8M Introduction to data structures and algorithms
+lec2.txt e73sb5pyriQ An Overview Of Compiler
+lec3.txt fV2k2ivttL0 Artificial Intelligence
+lec4.txt EUzsy3W4I0g Introduction to database management systems
+lec5.txt Gc8emFk-2vc Vertx Cover and Independent set
+lec6.txt AN5I6fFxyfs Introduction to Software Engineering Challenges, Process Models
+lec7.txt CBZ6gKIFrcE Breadth first Search
+lec8.txt PGWZUgzDMYI Queues and Linked Lists
+lec9.txt B-Xe7_mf2CY Overview on Modern Cryptograpphy
+lec10.txt nVPsqD1aI0Q Grammar Ambiguity

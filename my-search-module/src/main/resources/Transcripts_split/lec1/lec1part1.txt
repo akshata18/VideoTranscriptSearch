@@ -1,0 +1,17 @@
+(Refer Slide Time: 1:27)
+Hope you are all familiar with certain data structures, an array or a list. In this course you
+will be seeing a lot of data structures and you will see how to use them in various
+algorithms. We will take a particular problem, try to solve it and in the process develop
+data structures. The best way of organizing the data, associated with that problem. What
+is an algorithmic problem? An algorithmic problem is essentially, that you have a certain
+specifications of an input and specify what the output should be like. Here is one
+specification. A sorted, non decreasing sequence of natural numbers of non-zero, finite
+length. For example:
+  1,20,908,909,100000,1000000000
+  3.
+This is a completely specified input. Above are the two examples of input, which meets
+the specification and I have not given any output specification.
+What is an instance? A sorted, non-decreasing sequence of natural numbers of non-zero,
+finite length forms an instance. Those two examples are the instances of the input. You
+can have any possible number of instances that may take sequence of sorted, nondecreasing
+numbers as input.

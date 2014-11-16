@@ -1,0 +1,5 @@
+(Refer Slide Time: 00:26:02)
+
+Now this is where actually the data model becomes extremely important, what is the data
+model and how do we store data into that system and how do we access that data as we
+need it.

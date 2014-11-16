@@ -1,0 +1,16 @@
+(Refer Slide Time: 11:22)
+Object specifies the type of the value returned by the particular method. You will see
+more of this, when we come across more pseudo-code. How do we analyze algorithms?
+First we identify what are the primitive operations in our pseudo-code. What is a
+primitive operation? It is a low level operation. Example is a data movement in which I
+do an assignment from one to another, I do a control statement which is a branch (if…
+then …else) subroutine call or return. I do arithmetic operations or logical operations and
+these are called as a primitive operation.
+  Data movement (assign)
+  Control (branch, subroutine call, return)
+  Arithmetic an logical operations (e.g. addition, comparison)
+In my pseudo code, I just inspect the pseudo code and count the number of primitive
+operations that are executed by an algorithm. Let us see an example of sorting. The input
+is some sequence of numbers and output is a permutation of the sequence which is in non
+decreasing order. What are the requirements for the output? It should be in nondecreasing
+order and it should be the permutation of the input.

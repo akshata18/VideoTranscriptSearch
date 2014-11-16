@@ -1,0 +1,68 @@
+(Refer Slide Time: 25:24)
+
+So, in this algorithm has three steps and 1, 3 and 4 are all constant time. This one has got
+some constant number of operations. It runs over each vertex. So, this is of time order n,
+where n is the number of vertices. Now, let us take a look at this while loop. Well, this is
+a constant time, but it will dominate this for loop. In this loop we notice that for each
+vertex U, we do this once remember that each vertex enters and exits the Q this is the
+time when this U has exited. From this U, we do this process. So, what is the time
+complexity of this process?
+Well, in this V, we visit each neighbor of V and then check what is the status, whether
+unvisited or it is otherwise. Depending on that, we do some constant time operation.
+These are four fixed operations. So, for every neighbor of U we will do once. So, what
+we have here is that some C 1 n for the step two and then for step five we perform for
+every vertex U in this thing, degree of U time operation some C 2 time. Here, degree
+stands for the number of vertices which are adjacent to U. For example, if you have a
+graph such as this and this is U, then one two and three and four vertices adjacent to U.
+Hence, there are four vertices adjacent to u. The degree of U is 4, degree of this vertex is
+2, degree of this Vertex is 3, the degree of this Vertex is 3, the degree of this Vertex is 4,
+and so on, so that what degree starts from this is dominating. These are two dominating
+terms. Everything else is of course, in constant time. So, well this is really not constant
+time. This is also order n. This is not even order n. This is the number of edges in this
+
+graph, that is the time complexity number of edges that we have, but the number of
+edges are what for each vertex there is one edges.
+So, it is actually n minus 1 such edges. So, entire thing takes order n time which is
+already accounted for. What is this term? The sum of the degrees of the vertices of a
+graph, if I just sum this up, I will get 2 and 4, 9 and th3ree, 12 and 3, 15 and 3 edges. So,
+we have 18 number of edges. If this is 1, 2, 3, 4, 5, 5, 7, 8, 9, 10, and 11, so I have
+missed something. Let me add up again, 2 plus 3 5 and 4 9, 3 12, 3 15, 3 18 and 4 22.
+So, this total sum is 22, which is twice the number of edges in it. In general, you can
+easily show that the sum of the degrees of the vertices of a graph is 2 times the number
+of edges. That is simply because, when you count the degree, you count for a given edge,
+you count A twice, one at this end and the other at this end. Hence, the sum turns out to
+be 2 times of the number of edges and m denotes the numbers of edges in the graph. So,
+this time complexity is of the order n plus m. This is the space complexity. Note that, the
+major data structure we have used here is the edges in the list in which what we do is for
+every vertex.
+We store the list of all the vertices which are adjacent to U. So, for U we must have
+stored in a list this vertex, this vertex, this and this vertex. So, the length of the list for U
+is exactly the degree of U. Hence, the total space used is the sum of the degrees of the
+vertices which is m 2 times m. So, the data structure called adjacently takes order n time
+m time. We have certain list like parent and d and all that, which will take order n space.
+The status also takes order n space Q. The size of Q in the worst case, could be order n,
+that is the total number of vertices. So, all the set of list that we see here take order n
+space. So, this is also of order n plus m.
+So, this completes the discussion of our algorithm. We have proven the correctness and
+we found the time complexity and the space complexity now. So, far what we have done
+is, we have assumed that we have a graph for which we can compute the shortest
+distance for every vertex from S. The output also gives you one path which gives you
+such a distance. Now, as we said if you take every vertex and go back to its parent and
+go on, you end up into S. May be some of them are already there. So, we start building
+this. What you build is a tree and the length of the paths in the tree from each vertex to S
+is precisely delta S V for that vertex V.
+
+So, this is indeed the shortest path tree. But, there are certain things we have ignored. So,
+the question is, why is the graph not connected? So, what do we mean by that? So, what
+we say is, let suppose the graph looks like this. This is the graph. It turns out that the set
+of vertices here which have no edge to this set of vertices, means there is no way we can
+go from S to any of these vertices. Such graphs are known as not connected graphs. If I
+input such a graph to our algorithm, what will happen? Well, it is clear that after this
+algorithm is complete, none of these vertices will figure in this. The d values will never
+change.
+The parent value will remain nil. So, the d values will be 0. This is incorrect. The d value
+of only S can be 0. In fact, what typically one states is that the d value of this should be
+infinite to indicate that there is no path from S to this. So, we should ideally initialize the
+d value to infinity rather than 0. So, we should actually set d V to be infinity. That way if
+any vertex is not accessible from S, then its d value will remain infinity. We will have to
+make one more addition to this, because d of S must be 0.

@@ -1,0 +1,6 @@
+(Refer Slide Time: 53:40)
+
+In 1969 to 79 knowledge based systems were developed. In 1976 Doug Lenat handled the
+program called AM and Heurisko demonstrated the discovery model. In 1978 Herbert
+Simon from CMU won the Nobel Prize in Economics for his theory of bounded
+rationality.

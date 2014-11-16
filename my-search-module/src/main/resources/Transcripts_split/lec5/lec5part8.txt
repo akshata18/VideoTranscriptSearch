@@ -1,0 +1,23 @@
+(Refer Slide Time: 07:44)
+
+So, for instance let us consider this simple example.
+(No audio from 07:48 t0 07:55)
+This is called as cycle cycle Graph C n. So, the cycle this is called a cycle Graph. The
+cycle on n vertices C n. And. So, suppose we collect these vertices using red, let say
+these vertices and then take some of the edges here; so, this one, this one. So, here the
+vertex set these red color vertices now is a subset of the vertex set of the original Graph
+C n, and the edge set is also a subset of the original Graph C n. So, then this is a this
+looks like this; this is a Sub Graph of the original Graph.
+Let us may be you can consider little more complicated, some little more complicated
+figure. So, let us say consider this Graph. Now, if I consider these vertices. So, and this
+edges, this is a sub Graph. So, this black edges and these vertices form a Sub Graph of
+this big Graph; and so, and then the next is a notion called induced Sub Graph. What is
+an induced Sub Graph? So, the induced Sub Graph means, if we select few a vertices - a
+subset of G and then look at the edge set for instance we can consider our earlier earlier
+example.
+So, this was here we selected the vertex set, and this is what we got is something like this
+red red, this is called a path Graph say. So, something like this is a path Graph on three
+vertices, and sees when I consider these vertices all the edges of C n, the original Graph
+which have both end points in the selected collection of vertices, is there in the sub
+Graph also. Then this is called an induced Sub Graph.
+

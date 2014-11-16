@@ -1,0 +1,11 @@
+(Refer Slide Time: 36:20)
+
+So, we should say that d of S is 0. Separately, that is the only change we need to do to
+handle the graphs which are not connected, but we will have to now change the
+definition of shortest path tree. Earlier, what we said is that it is a sub graph of the given
+graph which is a spanning tree. This means that every vertex is present on this tree and
+the shortest path from S to each vertex in the graph is also equal to the distance from that
+
+vertex S. In that tree there is precisely one path between any pair of vertices. So, what we
+notice here is, in general the graph is not connected. Such a thing is not going to happen
+there. So, what we will do is will redefine the notion of a shortest path tree as follows.

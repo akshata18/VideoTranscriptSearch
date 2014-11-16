@@ -1,0 +1,12 @@
+(Refer Slide Time: 24:00)
+
+So in the process what may happen is that when the software is finally built, the users
+may find that it does not meet their requirements. In such a situation it is probably a good
+idea to develop the software in parts or in smaller increments and then release them and
+get the feedback of the user. So there may be different approaches rather than using a
+strictly linear waterfall model in such situations. Waterfall model is also considered very
+documentation-heavy, what it means is that too much documentation is being produced
+as part of the project. This may not be really necessary in all types of projects. So other
+models have been proposed in order to take care of some of the short comings or to
+handle some specific situations in project development scenarios.
+

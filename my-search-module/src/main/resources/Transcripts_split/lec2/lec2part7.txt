@@ -1,0 +1,8 @@
+(Refer Slide Time: 22:47) 
+
+ Here is a second example, which is slightly more complicated. The previous example was called as a function by the parser, whereas this is a program on its own. What does this particular program do? I will skip to the next slide and then get back to this in a minute. (Refer Slide Time: 23:07) 
+
+ Look at the bottom of this slide. It gives you examples of C declarations: int a comma b 10 c comma d 25; float k 20 l 10 m comma n. Now, it may be clear. It actually recognizes such declarations. So, you must understand that not everything in a LEX 
+
+specification needs to be … Let me take that back. 
+

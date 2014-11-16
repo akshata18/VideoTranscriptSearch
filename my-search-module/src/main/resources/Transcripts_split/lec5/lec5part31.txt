@@ -1,0 +1,16 @@
+(Refer Slide Time: 37: 43)
+
+Suppose suppose there is a vertex cover with n minus 2 vertices, then there are 2 vertices
+say let us say x and y in the Graph, such that it is not in this vertex cover. Because we
+have in the vertex cover, we have only n minus 2 vertices, there are 2 more vertices let x
+and y be the two vertices. So, because it is a complete Graph between x and y, we do
+have an edge. Neither x nor y is in the vertex cover we have selected. So, who is
+covering this edge right?
+So therefore, if we have only n minus 2 vertices in the set we have selected, it cannot be
+a vertex cover. So, the number of vertices in a the vertex cover of complete Graph is, at
+least n minus 1 and its n minus 1 is enough. Therefore, for complete Graph the
+cardinality the minimum vertex cover is n minus 1.
+Now, let us consider another example. So, what about a complete Graph on complete
+Graph K m n on, so with m vertices on one side, complete bipartite; there is not complete
+Graph.
+

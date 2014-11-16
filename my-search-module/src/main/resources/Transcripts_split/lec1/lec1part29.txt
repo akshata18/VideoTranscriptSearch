@@ -1,0 +1,11 @@
+(Refer Slide Time: 41.34)
+It is an algorithm and let us compute the running time. This is one step. It is executed for
+i number of times and initially i take a value from 0,1,2,3 and all the way up to n-1. This
+entire thing is done n times. This gives you the total running time of roughly n2 .
+a  a+ X[j]
+This one step is getting executed n2 times and this is the dominant thing. How many
+times the steps given below are executed?
+A[i]  a/ (j+1)
+a  0 These steps are executed for n times. a  a + X[j] But the step mentioned above
+is getting executed roughly for some constant n2 times. Thus the running time of the
+algorithm is O ( n2 ). It is a very simple problem but you can have a better solution.

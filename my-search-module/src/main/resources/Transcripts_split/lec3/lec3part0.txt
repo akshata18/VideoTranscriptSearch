@@ -1,0 +1,9 @@
+Artificial Intelligence
+Prof. Sudeshna Sarkar
+Department of Computer Science and Engineering
+Indian Institute of Technology, Kharagpur
+Lecture - 1
+Introduction
+Today we start the lecture on the course Artificial Intelligence. This course will be
+delivered by me Sudeshna Sarkar and Professor Anupam Basu both from the Computer
+Science and engineering department IIT Kharagpur.

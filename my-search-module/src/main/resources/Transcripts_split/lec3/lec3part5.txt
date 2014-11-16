@@ -1,0 +1,14 @@
+(Refer Slide Time: 05:50)
+
+The instructional objectives of today’s lecture are:
+To understand the definition of Artificial Intelligence, what Artificial Intelligence is?
+What is it about?
+Secondly we will be discussing the different faculties involved with intelligent behavior,
+the different components that define intelligence. We will also be examining the different
+ways of approaching AI and finally we will also look at some example systems that have
+been constructed, that are popularly known which use AI and lastly we will also take a
+brief look at the history of AI. On taking this lesson you should become familiar with the
+different ways of defining Artificial Intelligence. As we will see different people may
+define AI differently and we will familiarize ourselves with these definitions.
+Secondly, as I mentioned, we will try to understand the different components of
+intelligent behavior.

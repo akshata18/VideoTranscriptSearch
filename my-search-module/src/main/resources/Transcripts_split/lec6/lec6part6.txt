@@ -1,0 +1,21 @@
+(Refer Slide Time: 15:49)
+
+So these different types of deliverables are identified from different stages or different
+steps in the waterfall model. At the end of each step, if you recall we had said that every
+step ends in a validation and verification step. Similarly in the waterfall model when we
+move from one step to another there would be such reviews. Each step would end in a
+review. These review reports are very important inputs for identifying whether the
+development proceeded as per the plans, whatever the short comings whether the defects
+will were detected and were properly addressed.
+So review report is basically a catalog of how the development went through and it is an
+important input to the development team as well as to the management. So these are
+different deliverables. Many of them are important of which SRS is obviously one of the
+baseline. Design document is also very important for future maintenance. Source code
+definitely is important as it is executable and without this user manual, installation
+manual, some administration manuals and the system cannot be effectively used. So as
+you see here these different documents are essential part of the software. So software is
+not just the source code but all this documents which accompany software. Now as we go
+through this waterfall model and we perform the different steps, naturally we are
+investing more effort. The diagram shows the cost effort distribution as we run through
+the different steps in the waterfall model. So there are different steps are shown here.
+

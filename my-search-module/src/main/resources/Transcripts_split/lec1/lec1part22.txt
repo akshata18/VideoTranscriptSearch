@@ -1,0 +1,9 @@
+(Refer Slide Time: 28:50)
+For some algorithms worst case occurs fairly often. For many instances the time taken by
+the algorithm is close to the worst case. Average case essentially becomes as bad as the
+worst case. In the previous example that we saw, the average case and the worst case
+were n2 . There were differences in the constant but it was roughly the same. The average
+case might be very difficult to compute, because you should look at all possible instances
+and then take some kind of an average. Or you have to say like, when my input instance
+is drawn from a certain distribution and the expected time my algorithm will take is
+typically a much harder quantity to work and to compute with.

@@ -1,0 +1,10 @@
+(Refer Slide Time: 00:36)
+
+The two important features of this is every vertex V for which we assigned the parent
+and the d Value is 1, which is unvisited. At that time, we reassigned the status to be visit
+to be current. So, every vertex has only one assignment to the d Value and to their parent
+value. We also stated one claim and proved it that every vertex enters and exits Q
+precisely once. Now, we will go on and prove the correctness of this algorithm, that is
+we will establish that indeed it computes the shortest path a tree for vertex s. So, let us
+define a notation.
+

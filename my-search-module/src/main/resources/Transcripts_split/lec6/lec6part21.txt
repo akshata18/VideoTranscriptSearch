@@ -1,0 +1,40 @@
+(Refer Slide Time: 47:05)
+
+So these are important project monitoring aspect and we use different types of analysis
+techniques by representing the project plan in a proper form such as a bar chart or as
+activity network. Each development step you will recall, will give information for
+tracking the progress of the development. We had said earlier that every step produces
+input for the management and this information will be used by the management for
+identifying possible bottom necks and the reason for delays if there is any. And we will
+enable the management to take corrective action. So project plan allows you to monitor
+the project and also control over the progress of the project. Let us now summarize we
+have in this particular lesson.
+We have we have introduced the software engineering topic. We have looked at the
+importance of applying engineering approach to development of large software project.
+We define what we mean by engineering. So now we should be very clear how we
+benefit by applying an engineering approach to software development. We identified
+different types of software processes. We defined a stepwise process definition where the
+software methodology consists of multiple steps. We made a very rigorous definition of
+what we mean by a software development step. It has entry criteria exit criteria
+something specific to be done, some techniques to be employed some documentation, or
+some other output to be produced which will be used by subsequent steps. So the essence
+of engineering approach is to define a stepwise methodology for carrying out the project.
+We saw the waterfall model and other models. We tried to understand their strengths and
+their weaknesses. We saw that the waterfall model consists of many steps arranged in a
+proper sequence and it identifies many different deliverables which are very important
+not only for completing the project but for future maintenance of the project. We saw
+then limitations of waterfall model and how other models tried to address those
+limitations such as the prototyping model or the spiral model.
+
+And finally we briefly talked about the project planning. Key observations we made here
+is that if you do not have a project plan you cannot manage the project. And project
+management is actually very important in any large project. And another key point was
+that, in order to prepare a project plan it is important that we learn measurement
+techniques. We keep historical data, we learned how to effort how to do the effort
+estimation. We also understand how the effort is distributed in different steps. So once we
+have a good understanding about these issues and we also maintain data about similar
+projects that we might have done in the past, we will be able to prepare the project plan
+with a great amount of confidence and we will be able to carry out the whole project as
+per the plan.
+
+

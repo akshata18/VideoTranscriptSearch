@@ -1,0 +1,24 @@
+(Refer Slide Time: 41:25)
+
+Next, so, what about the cycle on n vertices. So, suppose if we consider the cycle on n
+vertices, what should be the cardinality of a minimum vertex cover. So, here I have
+drawn a cycle on 7 vertices. So, let us let us make it 8, let us make it 8 sets cycle on eight
+vertices. So now, you can easily see that. So, vertex cover... So, I am marking vertex
+cover here. So 1, 2, 3, 4 this is a vertex cover; 4 vertices is enough to cover all the edges,
+if we take any edge one of the end point is a red.
+Now, the question... So, for instance if this is a cycle on n vertices C n with n even, then
+it is clear that n by 2 vertices will be enough we can take alternate one here, then next
+here, then next here like that. So, n by 2 will be enough. But then the question is it
+possible to do with less than n by 2 vertices. So, without much difficult we can see that it
+is not possible, because if we look at each vertex, each red vertex here; it is only
+covering two vertices, because the degree of this Graph, degree means the number of
+edges incident on the vertex is called the degree. Degree of this Graph is. So, degree of
+these vertices only 2, so degree of these vertices only 2.
+So therefore, so each vertex is covering only taking care of only two edges. So, together
+n by 2 vertices can take care of only n edges. So, for instance if we if we could do with n
+
+by 2 minus 1 that will take care of only n by 2 minus 2 edges. So, the remaining 2 edges
+will be left and covered. So therefore, n by 2 is a must. Similarly, if we consider suppose
+if n is an odd number, then if you can easily see that you will need n by 2 seal right,
+because if we have n by 2 say floor also. So, each vertex will cover only 2. So, that will
+be less than m.

@@ -1,0 +1,22 @@
+(Refer Slide Time: 15:59)
+
+Now, if the interrogator cannot reliably distinguish between a human answerer and a
+computer answerer then we can say that the computer system possesses Artificial
+Intelligence. This is the test devised by Turing to find out whether the machine has been
+able to come up with a right amount of intelligence to match human intelligence in
+answering questions. Now let us look at typical AI problems.
+Intelligent entities or agents need to be able to do different types of tasks. There are some
+tasks which are mundane tasks that we do as a matter of fact in out daily life and there are
+some tasks that we consider intelligent like solving difficult mathematical problems,
+
+playing games of chess in an expert fashion and other activities which intelligent people
+can do well. Now, examples of mundane tasks are planning route. Suppose you want to
+go to here from the market and you plan a path along which you will go. Or you want to
+go from here to let us a say a particular place in Delhi and you have to plan your journey
+and plan your path. Something that we do all the time is trying to recognize objects or
+recognize faces of people, this requires vision.
+Thirdly, we communicate with each other through natural language. Fourthly, we
+navigate around obstacles on the street. So these are the tasks that we do routinely. In fact
+most animals do this task routinely. And then there are expert tasks like medical
+diagnosis which are only the doctor or the expert in the field does. And mathematical
+problem solving can be done effectively only by good mathematicians.

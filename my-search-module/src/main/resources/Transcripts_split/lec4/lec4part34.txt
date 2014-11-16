@@ -1,0 +1,4 @@
+(Refer Slide Time: 00:48:26)
+
+So these are actually read only transaction, they are just reading the values that are stored
+in the database.

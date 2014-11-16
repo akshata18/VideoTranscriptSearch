@@ -1,0 +1,9 @@
+(Refer Slide Time: 50:55)
+
+So, the claim is without proof, but the proof is very similar. Without proof, we can say
+that, for any edge weighted graph with W going from E to R plus, this is to indicate that
+negative numbers are not allowed, there exists a weighted shortest path tree for each S V.
+So, in the next lecture, we will describe how to compute this. We will do that by
+modifying this very algorithm suitably.
+
+

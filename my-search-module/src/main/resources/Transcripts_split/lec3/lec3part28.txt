@@ -1,0 +1,14 @@
+(Refer Slide Time: 35:45)
+
+The goal of applied AI is to produce viable smart systems. For example, it will be nice to
+have a security system that is able to recognize the faces of people who are permitted to
+enter a particular building. There are certain applications which are useful to us and
+applied AI aims to solve these applications intelligently, not necessarily to construct a
+complete intelligent agent but an agent which is intelligent in doing a specific task.
+For example, recognize people, detect credit card fraud, drive a vehicle autonomously. So
+they take up specific tasks and develop systems that solve those tasks. Fourthly, cognitive
+AI deals with the studies where computers are used to test theories about how the human
+mind works. Cognitive scientists want to understand how humans act, how humans
+behave, how humans think and these theories can be tested by building these theories into
+machines and watching and testing how well the machines function using those theories.
+

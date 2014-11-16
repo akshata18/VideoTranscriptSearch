@@ -1,0 +1,27 @@
+(Refer Slide Time: 05:00)
+
+Many of these documents will act as a baseline for future reference. In fact some of these
+baselines are in the nature of contractual obligations. You may be an independent agency
+who is doing software development for a client. So there has to be a baseline, there has to
+be a reference which clearly defines what your obligations to the customer are and what
+kind of product you should make for him. So such kind of baselines would be produced
+in the process of development. And waterfall model defines such baselines or other
+deliverables or other documents which are required for subsequent steps. One important
+point about this deliverables is that, once a step is completed, the output of that step is
+clearly defined in the form of a document, which can be then handed over to people who
+will perform the next step. So this model facilitates change of people from step to step.
+We are not making it necessary that the same people who have done the analysis should
+do the design; the same people who have done the design should do the implementation.
+In fact we saw that in the example of civil engineering, we have different people with
+different expertise and different people are called upon to do certain specific things at
+different points in the life cycle of a project. Same thing happens in a software
+development. We define these documents, they are of certain formats, and they are
+handed over to the next team who will perform the next step. So there is an
+interchangeability of the people and different steps can employ people of different skills
+as necessary for that step.
+These documents also play an important role for quality assurance, project management
+and so on. This methodology is also very widely used. There are some variations
+possible, but it is commonly followed because of the natural development cycle on which
+it is based. Especially when the requirements can be clearly defined, waterfall model is an
+ideal model for development software. So let us see what the different steps are.
+

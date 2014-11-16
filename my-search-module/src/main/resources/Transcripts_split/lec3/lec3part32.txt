@@ -1,0 +1,15 @@
+(Refer Slide Time: 42:01)
+
+Our spoken language systems are capable of thousand word continuous speech. Planning
+and scheduling systems are used in Hubble telescope experiments. Hubble telescope is
+one of the most well known telescopes which have been around for several years. Now
+there is a talk of dismantling the Hubble telescope because it has become quite old and
+the cost of maintaining it has become huge. But it is for a long time the Hubble telescope
+has been the most important telescope for gathering a lot of data and there are so many
+people who want to use the Hubble telescope. There is a complex planning and
+scheduling problem to schedule these tasks on the telescope which has been done by AI
+systems.
+In learning our text categorization systems can work and categorize the text at about
+thousand topics. In games AI system has achieved grand master level in chess where the
+noise…world champions we have good programs playing checkers.
+

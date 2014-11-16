@@ -1,0 +1,5 @@
+(Refer Slide Time: 28:18)
+Which of this is the easiest to work with? Worst case is the one we will use the most. For
+the purpose of this course this is the only measure we will be working with. Why is the
+worst case used often? First it provides an upper bound and it tells you how long your
+algorithm is going to take in the worst case.

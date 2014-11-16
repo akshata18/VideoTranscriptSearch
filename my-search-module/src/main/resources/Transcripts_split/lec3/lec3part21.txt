@@ -1,0 +1,17 @@
+(Refer Slide Time: 25:00)
+
+In a machine translation if we could have immediate translations between people
+speaking different languages that would be a remarkable feat and it has very wide ranging
+economic and cultural implications. In the world today there are people speaking so many
+different languages and we do not understand the languages of many other people. Even
+in India as you know there are so many languages, there are more than 20 official
+languages and I cannot understand the language of each Indian. So would it not it be nice
+if we had a system which would do simultaneous machine translations so that we can
+effortlessly understand each other.
+Full machine translation is not yet there but there has been quite some progress in the
+field of machine translation in a small way. For example, the US military is giving a
+simpler one way translation device they are using this in Iraq. US forces are using the
+Phraselator to communicate with injured Iraqi prisoners of war travelers at checkpoints
+and for other peace keeping duties. Carnegie Mellon University is working on a system
+called the speechlator for use in doctor patient interview.
+

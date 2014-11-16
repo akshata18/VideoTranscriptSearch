@@ -1,0 +1,4 @@
+(Refer Slide Time: 2:29)
+An algorithm is essentially, describing the actions that one should take on the input
+instance to get the specified output. Also there can be infinitely many input instances and
+algorithms for solving certain problem. Each one of you could do it in a different way.

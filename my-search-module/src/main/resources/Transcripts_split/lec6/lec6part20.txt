@@ -1,0 +1,21 @@
+(Refer Slide Time: 45:42)
+
+We will define testing strategies, so that we can maintain a control over the defects and
+we can ensure a quality product from our approach. These are the different steps in the
+preparation of a project plan. You need to identify the effort. You need to know how the
+effort is being distributed, you need to commit resources for different steps and you need
+to make explicit quality plans. Because quality will naturally have cost implications, you
+will need to spend effort in identifying the defects, which might go from one step to
+another through the various deliverables that the steps produce. So these are the different
+project plan elements.
+Once the project plan is in place we will use it for monitoring and control. The plan
+defines the various activities we may represent it in different ways. There are Gantt chart,
+Time bar chart or PERT by CPM type of activity networks which are used for
+representing a plan. Essentially the plan shows the different activities. It shows expected
+durations for different steps and what kinds of resources have been allocated to those
+activities. In a network of activities like this, we can identify which is the critical path. If
+we do not meet the schedule requirements for the critical path then the project may get
+delayed. So we identify which are the critical activities and how to keep them under
+control. So that they are carried out in the expected duration and in the expected cost. If it
+is not done then there is going to be a significant impact on the overall project.
+

@@ -1,0 +1,8 @@
+(Refer Slide Time: 00:31:41)
+
+That can be shown here for example by saying that a vendor who wants to quote to me
+can login here. For example you can see here it allows the vendor to login here and in this
+particular case I can give a guest name, guest is the login and then with the password you
+can login now which shows that now he is allowed to actually enter my system and he
+can quote to my various requirements.
+

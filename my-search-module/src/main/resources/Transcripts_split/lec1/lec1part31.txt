@@ -1,0 +1,5 @@
+(Refer Slide Time: 44:15)
+How much time does this take? In each run of this loop I am just doing two primitive
+operations that makes an order n times, because this loop is executed n times. I have been
+using this freely linear and quadratic, but the slide given below just tells you the other
+terms I might be using.

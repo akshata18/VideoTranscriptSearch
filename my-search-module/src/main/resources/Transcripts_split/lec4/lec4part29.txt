@@ -1,0 +1,7 @@
+(Refer Slide Time: 00:34:19)
+
+I will show you in a minute where exactly this gets in and gets stored for me and that’s
+where basically the entire relational database system concept makes sense. Once he is
+doing this update, this goes in and get stored in an appropriate table in my database
+system and I will be able to retrieve or use this information later to make my decisions or
+other business processes or transaction to access this particular data.

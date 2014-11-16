@@ -1,0 +1,40 @@
+(Refer Slide Time: 42:52) 
+
+ Here is an example of an attribute grammar. To begin with, we have a context-free grammar; S going to E, E going to E plus T, or T, or it is a let expression; so let id is equal to expression in expression, etcetera. Then, we have a non-terminal T going T star F or F and finally, F goes to parentheses expression parentheses or number or id. What are the specialties of this language. 
+
+This language actually permits expressions to be nested inside another expression. So, we have nested expressions possible and we can also have scopes for the names inside these expressions. Here is an example - Let A equal to 5 in let A equal to 6 in A star 7. So, the inner A has this restricted scope of let A equal to 6 in A star 7 and the outer A actually cannot interfere with the expression A star 7. So, the inner A rules there and the outer A rules only in the outer level of the expression; that is, the entire expression 5 in let A equal to 6 in A star 7 minus A. The second A is actually 5. This evaluates correctly 
+
+to 41 provided the scopes of the two instances of A are treated as different. So, if the inner A retains the value 6 and A star 7 is evaluated with that 6 and if the outer A retains 
+
+the value 5 and it is used for the outer A, then the value of the expression is 41. 
+
+Such a programming language of expression requires a scope symbol table for implementation. Let us see how an abstract attribute grammar is used to specify such a language and then see how this works. Abstract attribute grammars use what are known 
+
+
+
+
+as inherited attributes and synthesized attributes, whereas YACC permits only synthesized attributes and its specifications. (Refer Slide Time: 45:41) 
+
+ Here is an attribute grammar. The first production is S to E. The attribute grammar format is simple; the context-free grammar rule is written followed by the attribute competition rules. The attributes with down arrow in front of them are inherited attributes. The attributes with up arrow in front of them are synthesized attributes. For example, in the first production, E dot symtab is inherited and S dot val E dot val are both synthesized. So, the rule corresponding to the production S going to E is very simple. It initializes the symbol table to a null symbol table and it says – whatever expression is produced by E, is the value produced by S as well; S dot val equal to E dot val. Let us directly go to the next production, E 1 going to E 2 plus T. E 1 and E 2 are the two instances of the non-terminal E. Here whatever is inherited from E 1; for example, here this is E 1, (Refer Slide Time: 47:06) it has a symbol table coming in and that is given to E 2 as a symbol table with which it should operate and that is also given to T as the symbol table with which it should operate. That is why, there are two statements: E 2 dot symtab equal to E 1 dot symtab and then T dot symtab equal to E 1 dot symtab. By the way, I should also mention that the order in which these statements are all written does 
+
+
+
+
+not correspond to a sequence of statements. The order of executing these statements is actually found out later by an attribute evaluator. What is the value of E 1? E 1 dot val is the value, which is nothing but E 2 dot val and T dot val; added together. Similarly, let us take the most complicated expression E 1 going to let id equal to E 2 in E 3. The value of E 1 is the value of E 3. That is why, E 1 dot val is E 3 dot val. The symbol table for E 2, which has all the names including ones from outside is nothing but E 1 dot symtab. However, the symbol table for E 3 is very different. The symbol table for E 3 is the symbol table of E 1 with the name E 2 dot val pair overriding any similar name within E 1 dot symtab. This operator (Refer Slide Time: 48:47), back slash is nothing but the overriding operator that we are going to define. So, if there is a name inside E 1 dot symtab, which is same as id dot name, that name is temporarily overridden by this particular new id dot name. The new id dot name will have the value E 2 dot val associated with it. So, this is the structure of the symbol table (Refer Slide Time: 49:15). (Refer Slide Time: 49:22) 
+
+ Let us now look at a simple example to see how exactly the attributes flow. The productions, which are used here are two of them: S to E and E going let id equal to E in E. 
+
+
+
+
+Here is a complete syntax tree for this particular sentence – let a equal to 4 in a plus 3; a simple sentence. The productions are S to E and then E going to this entire thing (Refer 
+
+Slide Time: 49:50). So, that happens in several steps; E going to… It actually says – let id equal to E in again E. This is the first level. Then, this E expands further to T and then F and then number. This E expands to E plus T and then finally, to T, F and a. On this side, it expands to F and 3. So, this is the syntax tree. 
+
+We begin with a null symbol table. The null symbol table is handed over to E and it is also handed over to this side E (Refer Slide Time: 50:36). This side, the symbol table continues to be null or empty and when we get 4, the value is actually handed over to F, which in turn goes to T, which in turn goes to E. This side, the value which is handed over as phi; the symbol value, which is handed over as phi, actually now gets updated. Let see how? 
+
+Here is a (Refer Slide Time: 51:06). Once we say this is 4, which is actually synthesized from E to T to F to 4 and this identifier a, which is already available are combined into an association a to 4. This is the overriding operator. So, phi overridden with a to 4 is the new symbol table, which is given to E. That symbol table continues to be handed over to its successors. So, a to 4 is the new symbol table, which goes down. As a to 4 goes down, it meets another a. So, E to T to F to a. During F to a, there is a symbol, which is produced here (Refer Slide Time: 51:51), a; this a produces the value 4, when it is looked up in this particular symbol table and the value of 4 goes up. Number 3 goes up without any difficulty; it does not need a symbol table. These two numbers are combined into the value 7 because of the production E going E plus T. So, the values of these two are added, 7 is produced here (Refer Slide Time: 52:15). This 7 is passed on to the root as the value produced by this start symbol. 
+
+
+
+

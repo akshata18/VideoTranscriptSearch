@@ -1,0 +1,13 @@
+(Refer Slide Time: 52:05)
+
+Before that people felt that a lot of things were possible by AI and we will soon have an
+extremely intelligent computer. But the limitations to the computational power was
+discovered when computational complexity was understood. In 1967 Feigenbaum and
+others developed a general program which was demonstrated used to demonstrate and
+interpret mass spectrum on organic chemical compounds.
+In 1968 there was a very significant paper by Minsky and Papert which demonstrated the
+limits of simple neural net. This paper had a tremendous negative effect in discouraging
+the field of neural network for the time being. And later of course people realized that
+there are ways of coming out of this problem. In 1969 SRI robot, Shakey in Stanford
+demonstrated locomotion perception and problem solving.
+

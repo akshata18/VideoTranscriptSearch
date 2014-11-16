@@ -1,0 +1,10 @@
+(Refer Slide Time: 38:37)
+
+In the core areas we talked about knowledge representation, reasoning, machine learning.
+General algorithms: search, planning, constraint, satisfaction.
+Perception: vision, natural language processing, robotics.
+Applications: game playing, AI and education, distributed agents.
+Uncertainty: probabilistic approaches, decision theory, reasoning with symbolic data.
+These are some of the topic that people study in AI and in this course also we are going
+to study most of these topics. Today successful AI systems operate in well defined
+specific domains employing narrow or specialized knowledge.

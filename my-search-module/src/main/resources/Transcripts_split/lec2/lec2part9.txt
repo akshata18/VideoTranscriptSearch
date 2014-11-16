@@ -1,0 +1,9 @@
+(Refer Slide Time: 24:55) 
+
+ This is the declaration, which actually is parsed by the lexical analyzer; LEX specifications that we have written here. These are all legal specifications. So, once declaration is found, it writes it into the text file and then ignores all the others. So, it writes it into a text file called declaration file and ignores all others. 
+
+The rest of the LEX specification is simply… In the main program, you open a file and call yylex. In the yywrap, you just do the wrapping routine, close the file, and get out. This is an example to show that it is possible to use LEX to parse even sizable parts of a programming language specification such as declaration, but I must hasten to add that not every declaration is so easy to parse within a LEX specification; some of these can be. I hope it conveys the essence of a LEX tool. 
+
+
+
+

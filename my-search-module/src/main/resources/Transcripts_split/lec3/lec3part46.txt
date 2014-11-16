@@ -1,0 +1,4 @@
+(Refer Slide Time: 49:32)
+
+Marvin Minsky and Dean Edmonds built the SNARC in 1951 which is a neural network
+computer.

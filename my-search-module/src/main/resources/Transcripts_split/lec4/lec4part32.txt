@@ -1,0 +1,16 @@
+(Refer Slide Time: 00:44:30)
+
+Now you can see that these are the values that are available for this particular field. So I
+can also probably browse the entire database, so you can see that this information that’s
+available in this particular table can be, you can use the browse and you can see what is
+the information available. For example quotations for computers you can see now here,
+you have Dev systems which quoted intel G 33 chipset for this unit price, this is a bulk
+price they didn’t quote bulk two price. Then it’s a category is its a local vendor and the
+monitor is the viewsonic and then a some comments for people to look at for both
+viewsonic or acer TFT monitors, you probably would like to supply both of them. So you
+can see this. This is what we have as the information right now. One can even see how
+this data gets changed when something got updated.
+For example you can go to the, as we saw earlier you can go to the computer system and
+once you have quoted for that, you probably can see based on here what I had given
+earlier as a guest has come up now here.
+

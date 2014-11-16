@@ -1,0 +1,27 @@
+(Refer Slide Time: 12:12)
+
+On the one hand we have thought or reasoning versus behavior and on the other hand we
+have human like performance versus ideal performance. So there are systems that think
+like humans. For example, we will discuss the famous Turing test which was devised by
+Alan Turing where the system which passed the Turing test would be a system that
+behaves like a human or thinks like a human. The second definition is systems that think
+rationally.
+
+The school of thought were different philosophers, mathematicians and computer
+scientists who have worked on logic and laws of thought believe in this approach.
+Thirdly, there are systems that act like humans. Cognitive scientists look at the properties
+of systems that act like humans and finally we have the definition systems that act
+rationally or systems that act in the best possible manner. And for this we have the
+approach of constructing a rational agent an agent which acts rationally. Alan Turing
+considered by many to be the father of AI devised the Turing test.
+In the Turing test this is the experimental set up that is devised. There will be a closed
+room and in this closed room there will be a being which may be a computer and it may
+be a human. There is an interrogator outside the room. The interrogator does not know
+whether the being inside the room is a computer or a human. So what the interrogator
+does is that the interrogator asks questions and the being inside the room processes these
+questions and returns some answer and the interrogator on the left room receives the
+answers on the screen.
+Now the interrogator has to make out from the answers whether the being inside the room
+is a computer or human. Now, if there is a computer inside the room the computer tries to
+convince the interrogator that it is actually a human being in the way it answers to the
+questions and it is the task of the interrogator to decide who is human.

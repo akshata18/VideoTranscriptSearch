@@ -1,0 +1,22 @@
+(Refer Slide Time: 27:12)
+
+Prototype might be either a working system or it may even be a paper prototype. So idea
+in the case of prototype is to do a quick design and implementation and to illustrate the
+approach or to illustrate the functionality to the user when these are clear. So we do not
+want to spend too much time and effort as well as resources in building a prototype with
+too much detail. We want to do a quick design and in fact those features which are clearly
+known or clearly understood need not be implemented. In the case of prototype the focus
+will be on what is unknown, or not properly understood. So prototype will be tuned as we
+develop it. And when we try to satisfy customer needs, many iterations may be required
+to incorporate the changes. Every time we complete the prototype we will evaluate it,
+tune it and decide what needs to be done further.
+Final product then would be built after the prototype is completed and is found to be
+acceptable. This final product may be built using the standard waterfall type of
+methodology, where we will go through the design, build and test life cycle. So here is
+the diagram which illustrates possible steps in the prototyping model. We start by quickly
+gathering the requirements. Then focus on those which are not clear and which need to be
+experimented. Then we need a quick design, we build a prototype. While building the
+prototype we may not care about doing too much documentation or look at the
+maintainability issues or even consider performance issues even if they are not relevant.
+Idea is to do a proof of the problem by demonstrating the unknown or un-understood.
+

@@ -1,0 +1,18 @@
+(Refer Slide Time: 5:20)
+How does one measure the running time of an algorithm? Let us look at the experimental
+study. You have a certain algorithm and you have to implement the algorithm, which
+means you have to write a program in a certain programming language.
+You run the program with varying data sets in which some are smaller, some are of larger
+data sets, some would be of some kinds and some would be of different kinds of varying
+composition. Then you clock the time the program takes and clock does not mean that
+you should sit down near stopwatch. Perhaps you can use the system utility like System.
+Current Time Millis (), to clock the time that program takes and then from that you try to
+figure out, how good your algorithms is. That is what one would call as the experimental
+study of the algorithm.
+This has certain limitations, let us see them in detail. First you have to implement the
+algorithm in which we will be able to determine how good your algorithm is.
+Implementing it is a huge overhead, where you have to spend considerable amount of
+time. Experiments can be done only on a limited set of inputs. You can run your
+experiment on a small set of instances and that might not really indicate the time that
+your algorithm is taking for other inputs, which you have not considered in your
+experiment.

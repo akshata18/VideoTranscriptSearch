@@ -1,0 +1,13 @@
+(Refer Slide Time: 34:56) 
+
+ 
+
+Now, we start declaring tokens. We will be come to this union a little later. There are tokens called NAME, NUMBER, POSTPLUS and POSTMINUS. Then, we have this 
+
+equal to, plus, minus, star, slash, then unary minus, then POSTPLUS, POSTMINUS, so many of them. We have also talked about the left associativity and right associativity of some of these operators. 
+
+Tokens are NAME, NUMBER, POSTPLUS, POSTMINUS, equal to, plus, minus, star and slash. It says that equal to, plus, minus, star and slash are left associative and it says that UMINUS is right associative, POSTPLUS and POSTMINUS are left associative. Then, it is possible to attach some semantic information to non-terminals and terminals. For terminals such as NAME and NUMBER, there is a dval field, which is described in the union statement above (Refer Slide Time: 36:10); it is a double field. This symp field is a pointer into the symbol table. So, for NUMBERs, double is the declaration of the value of the token and for NAMEs, a pointer into the symbol table is the value of the token. For non-terminals such as expression, again dval, which is double is the semantic information associated with it. 
+
+
+
+

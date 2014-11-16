@@ -1,0 +1,5 @@
+(Refer Slide Time: 04:33)
+
+Now, let us consider some example Graphs which are some simple simple Graphs. The
+first one is complete Graph; what is a complete Graph? Where corresponding to each
+possible pair of vertices, we have an edge.

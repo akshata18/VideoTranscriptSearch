@@ -1,0 +1,16 @@
+(Refer Slide Time: 6:23)
+If you have two algorithms and you have to decide, which one is better. You have to use
+exactly the same platforms to do the comparison. Platform means both the hardware and
+software environment. Because as you can imagine, different machines would make a
+difference, in fact even the users who are working on that system at that particular point
+would make a difference on the running time of an algorithm. It becomes very messy, if
+you have to do it this way. Hence same hardware and software environments should be
+used.
+What we are going to do in the part of this course? In this very first lecture, we have to
+develop the general methodology, which will help us to analyze running time of
+algorithms. We are going to do it as follows: First we are going to develop a high level
+description of an algorithm. The way of describing an algorithm and we are going to use
+this description to figure out the running time and not to implement it to any system.
+A methodology would help us to take into account of all possible input instances and also
+it will allow us to evaluate the efficiency of the algorithm in a way that it is independent
+of the platform we are using.

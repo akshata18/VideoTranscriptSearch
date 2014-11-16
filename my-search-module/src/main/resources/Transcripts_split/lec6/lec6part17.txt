@@ -1,0 +1,9 @@
+(Refer Slide Time: 37:00)
+
+So in the case of spiral model, it’s a risk driven model it allows us to use a mix of
+different approaches, which may be specification oriented approaches like waterfall
+model, or prototyping, or simulation. So unlike the incremental model where we try to
+release the different versions in the features of the product, here in the spiral model as we
+go through the different cycles, we try to address different risks. This model was
+proposed by Boehm and here is a diagram which defined a few cycles of the development
+process in the spiral model.

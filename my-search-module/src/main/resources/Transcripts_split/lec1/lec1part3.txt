@@ -1,0 +1,6 @@
+(Refer Slide Time: 3:33)
+That brings the notion of good algorithm. There are so many different algorithms for
+solving a certain problem. What is a good algorithm? Good algorithm is an efficient
+algorithm. What is efficient? Efficient is something, which has small running time and
+takes less memory. These will be the two measures of efficiency we will be working
+with. There could also be other measures of efficiency.

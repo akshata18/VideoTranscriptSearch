@@ -1,0 +1,13 @@
+Data Structures and Algorithms
+Dr. Naveen Garg
+Department of Computer Science and Engineering
+Indian Institute of Technology, Delhi
+Lecture – 1
+Introduction to Data Structures and Algorithms
+Welcome to data structures and algorithms. We are going to learn about some basic
+terminologies regarding data structures and the notations that you would be following in
+the rest of this course. We will begin with some simple definitions. An algorithm is an
+outline of the steps that a program or any computational procedure has to take. A
+program on the other hand is an implementation of an algorithm and it could be in any
+programming language. Data structure is the way we need to organize the data, so that it
+can be used effectively by the program.

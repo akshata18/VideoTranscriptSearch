@@ -1,0 +1,12 @@
+(Refer Slide Time: 27:08)
+It may be infinitely many, again it is not clear about how to do that. What is worst case?
+The worst case is defined as the maximum possible time that your algorithm would take
+for any instance of that size. In the slide 27:08, all the instances are of the same size. The
+best case would be the smallest time that your algorithm takes and the average would be
+the average of all infinite bars. That was for the input for 1size of size n, that would give
+the values, from that we can compute worst case, best case and the average case. If I
+would consider inputs of all sizes then I can create a plot for each inputs size and I could
+figure out the worst case, best case and an average case. Then I would get such a
+monotonically increasing plots. It is clear that as the size of the input increases, the time
+taken by your algorithm will increase. Thus when the input size becomes larger, it will
+not take lesser time.

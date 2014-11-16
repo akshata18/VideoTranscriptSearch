@@ -1,0 +1,9 @@
+Computer Algorithms - 2
+Prof: Dr. Shashank K. Mehta
+Department of Computer Science and Engineering
+Indian Institute of Technology, Kanpur
+Lecture - 2
+Breadth First Search
+Hello. In the last lecture, we described what is breadth first search; and based on that we
+developed an algorithm to compute the shortest path from a given vertex x to each vertex
+of the graph. The algorithm is reproduced here.

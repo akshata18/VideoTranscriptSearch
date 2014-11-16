@@ -1,0 +1,18 @@
+(Refer Slide Time: 27:33)
+
+So, what about, but then there is a notion of a complete Bipartite Graph. What is a
+complete Bipartite Graph? So, complete bipartite Graph means... So, we should be able
+to group the vertices into two groups such that. So, so they... So, let say this is A, and
+
+this is B, and then whenever I have an edge x is vertex here, and whenever I have vertex
+y here, then they will be an edge here.
+In other words, all the pairs with one of one from A and one from B will form an edge.
+So, usually we will we will show it like putting. So, say thick sorry. So, we can show it
+like a selecting. So, like these all the edges are there. So, we can we can indicated like
+this, all the all the possible edges between A and B are there; this is called a complete
+Bipartite Graph. So, notation for instance suppose there are m vertices in this A side, n
+vertices in the this B side; then we will call it K n m, this is the notation for that.
+Remember the complete Bipartite Graph is K n with n vertices, here this K n m - n for
+the number of vertices here sorry. So, let me say K m n or yes as we wish K m n.
+(No audio from 29:00 to 29:10)
+So, this is a complete bipartite Graph.
