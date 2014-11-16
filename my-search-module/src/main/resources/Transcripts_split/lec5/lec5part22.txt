@@ -1,0 +1,16 @@
+(Refer Slide Time: 23:32)
+
+So let us consider some simple examples like. So, consider a tree. So, this is a tree is this
+a bipartite Graph for instance simple; yeah this is a bipartite Graph, because we can place
+say this in one side, and then immediate children of that can be placed in the other side
+right in the other part; and then the children of this can be placed in the other part like
+this. So for instance, if you want see it in these two part form. So, 1, 2, 3, 4, 5 then I can
+place one here, and then 2 and 3 should go to the other side, 2 and 3 should go to the
+other side, these 2 vertices; and 4 and 5, so it neighbors of two should come to this side 4
+and 5. So you can see that, so by extending this argument you can see that any tree can
+be placed like this, on 2 2 sides.
+So, without any edge appearing in this side or without any edge appearing in this side
+right. So, all the edges will go from one side to other; the trees are like that, trees are
+Bipartite Graphs. Now so we show that, some cycles are Bipartite; it is true that every
+cycle is a bipartite Graph.
+

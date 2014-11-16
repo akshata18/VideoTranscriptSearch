@@ -1,0 +1,10 @@
+(Refer Slide Time: 00:22:53)
+
+So this actually gives an initial flow of how we could probably introduce the database
+systems for automating this business process. And one of the key things as I was
+explaining was to actually search through these rate contract details which were approved
+which could be used by various faculty members in choosing their requirements.
+Now as given earlier now I can actually quote through this which actually says that you
+can search through this rate contract details. Let us understand this one business process
+of how exactly one can search through this rate contract.
+

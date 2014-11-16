@@ -1,0 +1,8 @@
+(Refer Slide Time: 23:55)
+
+And this picture or this image is used in a neural network. This picture is captured into an
+image having 30/32 pixels. These pixels are fed into a neural network four hidden units
+and the output tells the processor which way to turn the wheel and decide the speed and
+so on. In 1997 the deep blue chess program developed at IBM be it the current world
+chess champion Gary Kasparov. This is the computer deep blue and this is Gary
+Kasparov after he lost the match accidentally.

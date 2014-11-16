@@ -1,0 +1,10 @@
+(Refer Slide Time: 04:38)
+
+Some of the text books we will follow for this course are the two books which I will be
+referring to and professor Basu will also talk about the other books he will refer to. The
+books are Artificial Intelligence a modern approach second edition by Stuart Russell and
+Peter Norwich. This book is published by Prentice Hall and also by Pearson. The second
+book is Artificial Intelligence a new synthesis by Nilsson published by Morgan
+Kaufmann publishers. Today’s lecture will be the first lecture in the series. The first
+module for this course is the introduction and today’s lecture is the first lecture this
+module which is introduction to AI. Now let us come to the objectives of today’s lecture.

@@ -1,0 +1,26 @@
+(Refer Slide Time: 09:25)
+
+Now, the term artificial is easy to understand but what is intelligence?
+It is very difficult to define intelligence. Often we look at some people look at
+intelligence as something that characterizes humans. If you take human beings to be
+intelligent you can say Artificial Intelligence means having behavior which is like a
+human. In fact there are two schools of thought here. Here an idea is to have a machine or
+have a system that behaves like a human. Humans are not always completely intelligent
+even though humans are very good. Actually pretty intelligent but all the time humans do
+not behave intelligently.
+So the other school of thought is that Artificial Intelligence concerns with intelligence
+which is the ideal or the best behavior or the most rational behavior. It is the machine that
+should behave in the best possible manner. There is another dichotomy in the definition.
+When we talk about behavior what sort of behavior are we talking about?
+There are two main types of behavior that people will like to talk about. Number one is
+thinking, thinking intelligently, reasoning properly and intelligently in order to come up
+with a solution. And the second approach is to talk about not thinking but acting how the
+system actually acts or behaves. We can talk about intelligence as something which
+characterizes humans or something that means behavior in the best possible manner or
+behaving rationally.
+Again we can talk about intelligence in thought or intelligence in action. So, based on this
+criterion we can look at the different ways of defining AI. So we may look at thought
+processing or reasoning versus behavior, we may look at human like performance versus
+
+ideal rational performance. And this diagram shows the four different definitions that
+emerge from these two dichotomous.

@@ -1,0 +1,10 @@
+(Refer Slide Time: 00:23:55)
+
+Now I can search for example IIT specification number wise where each specification
+will give the different specifications for the computer systems or you can have the search
+through vendor name or through brand name or processor name or a combination of this.
+
+For an example let us say I actually click on specification number wise and submit this
+then I can actually see all the specifications IIT has in this particular case. There are ten
+specifications in this case let us say I actually choose the fourth specification and submit
+that specification.

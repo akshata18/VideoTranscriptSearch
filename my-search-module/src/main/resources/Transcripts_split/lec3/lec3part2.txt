@@ -1,0 +1,14 @@
+(Refer Slide Time: 01:43)
+
+The instructional objectives of this course:
+On taking this course you should b able to understand the role of basic knowledge
+representation, how to represent our knowledge about the world and knowledge of
+problem solving techniques and a knowledge of some of the learning methods in AI. And
+we will see how these are used to solve different problems and to build a complete
+intelligent system.
+On taking this course you should be able to assess the applicability the strengths and
+weaknesses of these methods of the different techniques that we discuss. We will discuss
+the strengths of this method and situations where these methods can be applied to solve
+different types of problems that require intelligence. You will learn how to develop
+intelligent systems by assembling solutions to concrete computational problems.
+

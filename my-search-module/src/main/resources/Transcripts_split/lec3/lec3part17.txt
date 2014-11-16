@@ -1,0 +1,6 @@
+(Refer Slide Time: 20:50)
+
+Hence these things namely perception, reasoning, learning, language, understanding and
+solving problems are examples of some of the things that we want our AI systems to
+solve. Having looked at the definition of AI let us have a look at some examples of AI
+systems that have been around.

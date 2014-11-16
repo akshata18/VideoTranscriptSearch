@@ -1,0 +1,5 @@
+(Refer Slide Time: 13:11)
+What is the strategy you follow, when you are picking up a set of cards that have been
+dealt out to you? You like to keep them in a sorted order in your hand. You start with the
+empty hand and you pick up the first card, then you take the next card and insert it at the
+appropriate place.

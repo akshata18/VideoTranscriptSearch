@@ -1,0 +1,12 @@
+(Refer Slide Time: 21:26)
+
+These are some of the applications of AI:
+Computer vision, image recognition including face recognition, robotics, natural
+language processing and natural language understanding, speech processing, etc. Then if
+you look the practical impact of AI the AI components are embedded in numerous
+devices. Even in some copy machines there are AI components embedded. AI systems
+are in everyday use in detecting credit card fraud, in configuring products, in complex
+planning tasks, in advising physicians. Then intelligent tutoring systems provide students
+with personalized attention. These systems are there being used and they have a
+tremendous impact because they are so useful.
+

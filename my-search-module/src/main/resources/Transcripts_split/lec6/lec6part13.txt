@@ -1,0 +1,29 @@
+(Refer Slide Time: 29:49)
+
+Then after we have built the prototype, we evaluate and refine. And if necessary we go
+back and repeat this whole cycle. When the evaluation leads to clearly defined
+requirements, then we are ready to build the product. And this is done using the standard
+engineering approach. So product development takes place once the prototyping cycles
+are gone through and we have come to a clearly defined requirements document for the
+final product. Now there are of course some limitations to prototyping. There are
+situations where prototyping is ideal, but at the same time we need to be aware of these
+limitations. First the customer may be happy with the prototype itself and may demand
+that the prototype be released for his operations or functions.
+
+This is not really appropriate because the prototype may work in the beginning for some
+time, but it may not be maintainable. It may not give the kind of performance and it may
+not have the rugged design that is required for sustained operations. The second problem
+could be that the process of prototyping. The developer gets so attached to some of the
+approach he has used, that he doesn’t try to refine them or look for better way of building
+the same functionality. In that case we may actually have difficulties with the quality
+performance or other attributes of the software. What it really means is that, we develop a
+some kind of blindness towards other possible techniques or better way of doing things,
+because whatever way we implemented something in the prototype, we continue the
+same in the product.
+Good tools need to be acquired in order to do a prototype because we want to complete
+the prototype quickly in the minimum cost. So this is an investment we may have to
+make which adds to the cost of the project. So one of the problems with prototyping is
+that it may lead to a higher project cost and there are other problems that we have just
+mentioned. So when we have such difficulties based on the requirements or based on the
+situation we might choose some other development methodologies, one that may seem
+again obvious is the iterative development.

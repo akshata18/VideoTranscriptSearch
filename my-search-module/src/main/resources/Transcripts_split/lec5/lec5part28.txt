@@ -1,0 +1,37 @@
+(Refer Slide Time: 31:21)
+
+So, these are the corridor where the museum articles are displayed. So, museum art
+gallery are something like that. So, may be…
+(No audio from 31:36 to 32:05)
+So, here we have to place some entries; such that for instance if if a guard sits here, a
+sentry sits here. He can see this corridor, this corridor, and make sure that the people are
+not stealing things from the art gallery. So, this these three base we can watch watch for,
+but under the other hand he cannot see what is happening here. So, similarly if something
+is some theft is happening here, he cannot see that. So, you may have to place another
+person here. So, that you can watch here, watch here. So, he watches this and this. So,
+who will watch this, this only may have to place one here.
+So, if you placed one sentry here, one sentry here, and one sentry here. They can together
+watch the entire museum. So, (( )) of theft will happen right. So, here this problem can be
+modeled as a Graph problem. So, as you can see. So, here this will be converted to a
+small vertex, and then this will be converted to a vertex this, this, this. All the corners
+will be converted to a vertex. So, I will say I can draw a Graph like this based on this,
+and it will look like this. So, this is the... So, I have formed Graph from this art gallery.
+So, where these are the places where we can possibly place these sentries. So, there is no
+point placing is a sentry here, he can only see here. So, if we see here, he can see anyway
+
+this. So, these are the corners and then these are the corridors along which people move
+and the articles are displayed. Now, the question is the same as asking what a minimum
+vertex cover here, why minimum because we want the minimum number of is sentries to
+placed to minimize the cost.
+So, see so here, if we place as we so, we can place one here. So, these we can say select
+this vertex. So, as a position for sentry placing the sentry, and our we can select this one.
+So, this will say together this one, these two is a covered this is covered, but now this is
+not protected. So, if I if I place one here, then you can covered (( )) still it will be this
+will not be covered. So therefore, I can place one here; these three this thing. So, so the
+minimum number of guards we have to place. So that, the entire museum will be
+watched is the same as the the minimum number of vertices, that we have to be selected,
+such that every edge has at least one end point in it. So, this is called a minimum vertex
+cover.
+So, the vertex cover is just a collection of vertices such that every edge has at least one
+end point in it; minimum vertex cover is the one which minimizes that cardinality; that
+means, we want the smallest vertex cover.

@@ -1,0 +1,13 @@
+(Refer Slide Time: 18:58)
+
+So, a Graph without any cycle; that means, in it in a cyclic Graph is called forest. So,
+how will a forest look like? So, it may look like say see see that is know we can put a
+cycle right, this may look like this. So, this is a forest. Suppose it is a connected Graph
+also, here you see this is acyclic, but not connected this is disconnected Graph, but if it is
+a connected Graph also then we say that it is a tree. So, how do you for instance what
+kind of edges I can put to make this Graph connected for instance I can add say this
+edge, and say this edge.
+So, now this is this is become a tree. Now, if I for instance if I add this edge then what
+will happen is, this acyclic form, then it form be a tree. Neither will be a tree nor will be
+a will it be a forest. So, I cannot put that. So, this is the notion of tree.
+

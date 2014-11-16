@@ -1,0 +1,24 @@
+(Refer Slide Time: 32:54)
+
+So strong AI proponents want to develop systems that are completely intelligent and that
+can do things fully using their own intelligence. Such systems can be human like can be
+non-human-like but rational. When AI was conceived in the 1950s and 1960s there was a
+huge optimism about AI and there was a prediction that very soon AI systems will be
+able to overtake humans and able to everything that a human can do and can do them
+much better and do tasks that humans cannot do within a short time.
+However, such optimism has been ill founded and this was partly the reason why some
+people lost faith in the techniques of AI. But now after research into AI has taken place
+for over 50 years now we are in a position to understand and appreciate the true difficulty
+of the different problems that AI face. And we known what we can aim to solve now and
+what is more difficult and we will need different techniques, different hardware and
+different paradigms to be able to solve.
+Weak AI unlike strong AI deals with the creation of some Artificial Intelligence that
+cannot truly reason and solve problems but act as if it were intelligent. So the proponents
+of weak AI claim that machines which have been suitably programmed can simulate
+human cognition, appear to behave intelligently, appear to do tasks well and intelligently
+without really having the same intelligence or understanding as humans possess.
+Therefore, strong AI really deals with machines that really have mental states that think,
+reason, understand their behavior whereas weak AI is involved in simulating human
+behavior or simulating intelligent behavior without really claiming that the reasoning
+process behind it is intelligent.
+

@@ -1,0 +1,50 @@
+(Refer Slide Time: 02:28) 
+
+ For example, if you look at the compiler itself, which is a block in the previous diagram, it has these phases. This is our main stay for the entire lecture. There is a lexical analyzer, there is a syntax analyzer, semantic analyzer, intermediate code generator, machine independent code optimizer, code generator and then machine dependent code optimizer. These are the phases of a complete compiler. You can say –in some way, these are parts of the machine; the machine itself being the compiler. 
+
+What does each one of these phases in a compiler rule? That is what we are going to be looking at in the rest of the lecture. For example, the lexical analyzer – it takes the program, which is given in the form of characters. The characters are all read from a file and then the lexical analyzer divides it into what is known as a token stream. Why are these needed? We will see very shortly. The token stream is then fed to a syntax analyzer, which checks whether the syntax of the program according to the programming language rules are all satisfied. 
+
+If they are satisfied, it produces a syntax tree; otherwise, it gives number of error saying 
+
+that look there is no… Then, corresponding to the ‘if then’ statement, there is no assignment symbol in an assignment statement, the plus is missing in an expression, and so on and so forth. The syntax tree itself is not the end. The syntax tree for example, does not tell us that the program is valid. 
+
+
+
+
+To give you an instance, if we are trying to assign some value to an entire array; this is 
+
+not permitted in C. With such construct, the syntax analyzer will not able to point out the error and says this is wrong. So, what does the syntax analyzer do in such a case? The syntax analyzer in such a case says – sorry I cannot help, I will pass on this information to the semantic analyzer and that takes care of it. The semantic analyzer checks such mistakes, and then if everything is right, it produces what is known as annotated syntax tree. 
+
+The annotations are nothing but the semantic information of the program such as what are the symbol names, what are the various constant values, and so on and so forth. These are all fed to the intermediate code generator, which produces an intermediate representation. Why this is required, etcetera will be seen in the rest of the lecture. Then, the intermediate representation itself is improved by the machine independent code optimizer. There are many chances for such improvement as we shall see. Then, the optimized intermediate representation is fed to the code generator. The code generator actually is specific to every machine and then it converts the intermediate representation into machine code. Finally, there is some more improvement possible on the machine code itself; that is done by the machine dependent code optimizer. Finally, we get a very compact optimized target machine code.  (Refer Slide Time: 06:10) 
+
+ 
+
+
+
+
+Now, let us look at each one these phases in some detail. Here is an example of what 
+
+lexical analysis task is. Let us take a very simple assignment statement – fahrenheit equal to centigrade into 1.8 plus 32. There are characters in this particular assignment statement F, A, H, R, E, N, etcetera. There are symbols such as equal to, star, plus and so 
+
+on. There are numbers such as 1.2 and 32. 
+
+The lexical analyzer converts such stream of characters into slightly more meaningful; what are known as tokens. For example, fahrenheit and centigrade are names. They are traditionally called as identifiers. What exactly is the identifier? That value will be stored in a symbol table. id,1 and id,2 will denote the two identifiers: fahrenheit and centigrade; 1 and 2 being the indices of the symbol table in which the names are stored. Similarly, the equal to itself is called as an assignment operator and it given a token as assign. Similarly, the multop and the addop; the constants are given the tokens fconst and iconst with the appropriate values. What exactly are these tokens? Inside the compiler, the token itself is represented very compactly as an integer. Because of this, the space required for storing the entire assignment statement will be very small compared to the storage, which is required by the character stream. (Refer Slide Time: 08:09) 
+
+ Lexical analysis is very cumbersome if you try to write it by hand. Lexical analyzers are typically generated automatically from regular expression specifications. So, there are two tools, which are very well known for this purpose: one of them is called LEX, which 
+
+
+
+
+is available on every unix machines and Flex is the counter part of LEX, which is 
+
+available from GNU. The tokens of the lexical analyzer will actually become the terminal symbols of the context-free grammar, which is passed by the parser. We will see this a little later. Lexical analysis is usually called as a function to deliver a token whenever the parser needs. It is not as if the entire stream of characters is converted to a stream of tokens and then the parser starts its work. It is actually called only when it is required to deliver a token. 
+
+Why is the lexical analysis separate from parsing? Theoretically speaking, there is no reason to separate lexical analysis from parsing. In fact, as we shall see very soon, the lexical analyzers are specified using regular expressions. So, regular expressions can in fact be written as regular grammars, which are nothing but a special form of context-free grammars. Therefore, a parser, typically its specification for example, can be written inclusive of the lexical analyzer itself, but there are reasons why we make the lexical analyzer separate. First of the reasons is the simplification of design. This is a software engineering decision. The compiler is a huge piece of software. Therefore, making the entire software into modules, actually enables good software engineering practices. One of them is to make the lexical analyzer separate. Similarly, the parser and so on and so forth. Then, the input output issues are all limited to lexical analysis alone. For example, (Refer Slide Time: 10:31) this is one of the modules of a compiler, which does intensive I/O. The program is in a file and it is in the form of characters. So, each character has to be read and then fed to the parser. So, the lexical analyzer might as well do this entire part and it is possible to design the software very efficiently for such I/O. There is no need to bother the rest of the compiler once the input output is taken care of by the lexical analyzer. Lexical analysis is based on finite state machines; finite automata as they are called. Such finite automata are far more efficient to implement than pushdown automata, which is used for parsing. Why? It is well known that to parse a context free language sentence, it is necessary to have a pushdown automaton and the pushdown automaton uses a stack. If we actually convert the entire lexical analyzer specification into a context-free grammar, then there would be a huge number of pushes and pops corresponding to the character stream of the source program. So, this is very inefficient. We might as well do the pushes and pops on larger pieces of the source program, which are logical entities 
+
+
+
+
+called tokens. So, this makes the parser much more efficient. These are some of the 
+
+reasons why lexical analysis is separated from parse. 
+

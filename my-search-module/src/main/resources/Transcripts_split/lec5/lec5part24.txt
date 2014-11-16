@@ -1,0 +1,6 @@
+(Refer Slide Time: 26:49)
+
+Now, we will and now, because the triangle the K 3 is not a bipartite Graph. So, we can
+we know that no complete Graph K n, where n greater than equal to 3 is a bipartite
+Graph. Because if the complete Graph on 3 vertices itself cannot be placed like that, then
+more complete Graph on more number of vertices cannot be place like that.

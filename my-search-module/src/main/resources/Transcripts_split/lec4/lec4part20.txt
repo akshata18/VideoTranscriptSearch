@@ -1,0 +1,10 @@
+(Refer Slide Time: 00:25:50)
+
+Now you can say a canonical electronics private limited is a vendor name and I want
+clock speed 2.8 and I want to see all specifications matching these two requirements then
+I will basically submit this. I get one specification matching this requirement which says
+that this is the available system for me in the rate contract which I probably put order if
+that satisfies my requirement. Now to understand what is happening here as you can see
+here we need to get this information organized in the back end database and have this
+information stored properly into our database system.
+

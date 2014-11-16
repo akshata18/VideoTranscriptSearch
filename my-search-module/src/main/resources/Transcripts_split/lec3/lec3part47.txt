@@ -1,0 +1,7 @@
+(Refer Slide Time: 49:44)
+
+We have already seen Alan Turing. In 1950 Turing published his computing machinery
+and intelligence and this article articulated a complete vision of AI of solving problems,
+how AI systems can solve problems by searching through a space of possible solutions
+guided by heuristics.
+

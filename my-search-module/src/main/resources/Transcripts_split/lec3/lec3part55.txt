@@ -1,0 +1,7 @@
+(Refer Slide Time: 54:40)
+
+In 1990s there have been major advances in all areas of AI including machine learning,
+intelligent tutoring, multi agent planning, uncertain reasoning, natural language
+understanding, translation, vision and other topics. Rodney Brooks worked on the cog
+project at MIT which made significant progress in building a humanoid robot.
+

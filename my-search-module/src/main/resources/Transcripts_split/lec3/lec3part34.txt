@@ -1,0 +1,8 @@
+(Refer Slide Time: 44:05)
+
+Now that we have looked at some of the approaches of AI and what AI can do and not do
+at present let us have a look at the brief history of Artificial Intelligence. The dream of
+
+making a computer imitate us began many centuries ago. Intellectual roots of AI stretch
+back thousands of years into the earliest studies of nature of knowledge and the nature of
+reasoning.

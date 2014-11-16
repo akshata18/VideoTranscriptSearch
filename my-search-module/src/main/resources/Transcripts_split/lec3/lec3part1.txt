@@ -1,0 +1,8 @@
+(Refer Slide Time: 01:10)
+
+The goals for this course are to introduce you to the field of Artificial Intelligence. We
+want to explain to you the challenges that are inherent in building a system that can be
+considered to be intelligent. In this course we will be explaining the key paradigms of
+Artificial Intelligence, the core techniques and technologies used and algorithms for some
+of these techniques.
+

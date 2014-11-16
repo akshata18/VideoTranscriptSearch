@@ -1,0 +1,16 @@
+(Refer Slide Time: 37:44)
+
+So, the definition is that for a graph G equal to V comma E and a given vertex S and V,
+the shortest path tree is the sub graph T which is a tree and contains all vertices C. They
+are reachable from S and del G S x is equal to del T S x for all x. So, we defined the
+notion of reach ability. We say that a vertex is reachable, if there is at least one path
+reachable from S to that vertex. So, all these vertices are not reachable. All these vertices
+are reachable. So, our definition is that the shortest path tree is a tree, indeed it is a sub
+graph of a given graph.
+This means its edges are from the edges of the original graph G, but its vertices are only
+those vertices of G which are reachable from S. So, it will be only restricted to this path.
+The other part is the same, namely that the distance is short. It means the length of the
+shortest path. The distance of each vertex from S is in G. It is same as the distance from
+S to that vertex in T. So, with this definition we can handle the non connected graphs as
+well. Now, we will define one more type of graph which are called directed graphs.
+

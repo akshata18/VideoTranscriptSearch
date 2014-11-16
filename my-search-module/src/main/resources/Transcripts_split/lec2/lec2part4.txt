@@ -1,0 +1,7 @@
+(Refer Slide Time: 13:02) 
+
+ Let us look at some details of LEX. What is the form of a LEX file? a LEX specification; LEX has a language for describing regular expressions. I mentioned this already. It generates a pattern matcher for the regular expressions described. How does it do it? It actually converts each of these regular expressions to finite state machines and then arranges this in the form of a pattern matcher. We will look at some of these details very soon. The general structure of a LEX program is simple. There are some definitions, which are nothing but short hand and then we have a marker in the form of two percent symbols. Then, we have the rules, the patterns, or the regular expressions. Finally, there is another marker in the form of two percent symbols, and then we have some of the user subroutines, which are supplied by the user. A LEX compiler generates a C program called a LEX dot y y dot c as its output. This can be either used by a parser or used on its own. We will look at two examples, where it is used as a function by the parser and another example, where it is used as a standalone program. 
+
+
+
+

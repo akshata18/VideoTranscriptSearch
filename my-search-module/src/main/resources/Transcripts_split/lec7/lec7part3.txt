@@ -1,0 +1,48 @@
+(Refer Slide Time: 10:54)
+
+So, let us see the corollary. This claim is that if U came out of the Q before V, then the d
+Value of U cannot be greater than the d value of V. The second thing that I would like to
+establish is that every time we assign a d value to a vertex, which was in the
+neighborhood of U, we established U as its parent and d value is incremented by 1. So,
+what happens is that, suppose this is V and this is U, then this has some d value alpha.
+Then, this has d value alpha plus 1. Now, when U was assigned value alpha. It must have
+been assigned a parent.
+Let us call it x 1. The parents d value must have been alpha minus 1. So, if we go
+backwards, every vertex except x has a parent. So, it will reach s and its d value is 0. So,
+what you notice is that, just by walking along the parents of the vertices going towards
+this, we find that we build a path from s to the vertex V. The d value has to be the length
+of that path. The reason is that every time we walk along one edge backwards, we reduce
+the d value and it reaches 0.
+So, the d value is the length of that path. So, we can also have claim three. It is, where
+exists a path from S to V with length d V for each vertex V. This implies a corollary,
+which is d of V has to be greater than equal to delta S V for all V. Let me remind you
+that delta S V stands for the length of the shortest path from S to V. Among all paths
+from S to V the path which has got the minimum length, where length is this. This is the
+length of some path from S to V.
+
+So, this has to be less than or equal to this. Now, we want to prove the main result that
+not only that this is greater than equal to this, but we will establish that this is equal to
+this. The d V actually computes the shortest path from S to V. So, let us try do that. The
+next claim four, is that for all V, how do we prove this? So, we will prove this again by
+induction, but this time we will do induction on the delta value of that vertex. Each
+vertex V has a delta S V value unique value.
+We will prove this with the increasing value of delta. So, which vertex has got the
+minimum delta value, exactly the value of S, namely delta S. S is 0. The d values can
+never be negative because the only thing we do is we assign the d value of some vertex
+plus 1. So, there is no reason for d value to be negative. So, it is the least now. So, this is
+by induction on delta S V. So, the base case as we said is, when delta S V is 0. This is
+true only if V is equal to S. The d value of S is independently set to 0.
+Well, it is set to 0 with every vertex. The d value of S is never changed in the entire
+algorithm. The d value of S is never changed. So, it remains 0. So, indeed for s this claim
+is true. The d of S is 0 and delta of S is 0. So, base case is correct. Now, we want to
+prove for other vertices. So, for induction step we will take any vertex V. We will take a
+shortest path. So, let us say this is a shortest path, from S to V. In general, there could be
+more than one shortest path.
+So, I pick one of them. The length of this path has to be delta S V by definition. Let us
+say, this is K. So, induction hypothesis is that the claim is true for every vertex V for
+which delta S V is less than or equal to K minus 1. So, the induction hypothesis says d of
+V is equal to delta of S V, for each V. If delta of S V is less than or equal to K minus 1,
+this is the induction hypotheses. Now, I have a vertex, which has delta S V value equal to
+K. So, we would like to prove that d of V is K. Then, we are done. So, how do I show
+that?
+

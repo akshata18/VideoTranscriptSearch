@@ -1,0 +1,18 @@
+(Refer Slide Time: 19:34)
+I have put down the algorithm on the left. There is a small mistake in the last line of the
+slide, where there should be a left arrow. Please make a correction on that.
+A [i+1]  A key
+Let us count.
+Key  A[j]
+I  j-1
+These are all my primitive operations. I am comparing i with 0 and I am comparing A[i]
+with key, also I take and, so there are three primitive operations.
+while i >0 and A[i] > key
+Each of the operation takes a certain amount of time, depending upon the computer
+system you have. 1 C , 2 C , 3 C , 4 C , 5 C , 6 C just represent the amount of time taken for these
+operations and they can be in any units. I am counting the number of times, each of these
+operations is executed in this entire program.
+Why this operation is done n times? I start by assigning j =2 then assign 3, 4,5,6,7 and go
+up to n. Then when I increment it once and check that there is one more, so I have
+counted it as n times. There might be small errors in n and n + 1, but that is not very
+important. Roughly n times we need to do this operation.

@@ -1,0 +1,13 @@
+(Refer Slide Time: 01:52)
+
+Then we defined a typical step in a software development process we identified that the
+step will consist of some entry criteria, exit criteria, it will have some specific task to do,
+it will take certain inputs, it will provide some outputs and also the step will be under
+management control. So this is a very important definition of the typical step in the
+software development process. Then we also saw characteristics of good processes. And
+one of the most important characteristic was that it should be predictable, it should be
+well defined, and it should be repeatable. This is primarily what we focused on in the first
+lecture. And towards the end we began to look at the waterfall model for software
+development. We briefly introduced this last time. We said that a waterfall model
+consists of many steps organized in a linear order. So that one step produces the right
+kind of outputs for the next step.

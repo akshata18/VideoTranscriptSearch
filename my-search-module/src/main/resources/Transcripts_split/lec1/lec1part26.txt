@@ -1,0 +1,5 @@
+(Refer Slide Time: 35:55)
+How does one figure out these things? This is the very simple rule. Suppose this is my
+function 50 n log n, I just drop all constants and the lower order terms. Forget the
+constant 50 and I get n log n. This function 50 n log n is O (n log n). In the function 7n-3,
+I drop the constant and lower order terms, I get 7n-3 as O (n).

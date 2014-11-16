@@ -1,0 +1,8 @@
+(Refer Slide Time: 06:11)
+
+So, when I say complete Graph on n vertices, there are n choose 2 pairs n choose 2 pairs,
+say if V of G the the vertex set of G is called V of G, if this is equal to n then n choose 2
+pairs of vertices right are possible. Corresponding to each pair, we have to have an edge;
+then it is called a complete Graph on n vertices. The notation for the complete Graph on
+n vertices is K n.
+

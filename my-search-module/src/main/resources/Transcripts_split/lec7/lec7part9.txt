@@ -1,0 +1,25 @@
+(Refer Slide Time: 40:56)
+
+In these graphs, we have the same thing. The set of vertices, set of edges. But, these are
+directed edges. In other words, for any pair of vertices U V, if there is an edge, we also
+assign a direction. So, we say the edges U V to indicate that the edge is between U and
+V. Its direction is U to V. So, in general U V is not equal to V U. Besides, any of these
+can exists or may not exist. So, it is possible that you have a situation like this or you
+have just one edge in one direction or the other. All these are possibilities. This is the
+same vertex U V. In this situation, we modify the notion of path in the following sense.
+We say there is a path from x naught, x 1, all the way to x n minus 1 and x n. But, now
+we also insist that the direction of each of these edges is going away from x 1. So, all of
+these are directed in one direction from x 1 to x n. So, you may have a path from x
+naught to x n. That path does not become a path backwards. So, this is not a path from x
+n to x naught. Now, let us take a simple graph. Now, the direction of the edges I think, it
+is not that clear. Let me just make it clean. Here, x 3 is this vertex. If you notice the paths
+from S, they manage to reach x 1.
+They can reach x 2. They can also reach x 3, but there is no path from S to x 4. So, the
+notation of reachability now generalizes. Further, in this case we say that in the directed
+graphs a vertex V is reachable from x, if there is a path with appropriate direction. Here,
+the reachable set is S itself. Here, x 1, x 2 and x 3 are reachable, but x four is out. So, in
+the output, if I run this algorithm exactly as it is, in the output x 4 will not be figured.
+
+The d value of x 4 will remain infinite. So, when we have a directed graph and input that
+graph into this algorithm, what will come out will be some structure such as this and so
+on.

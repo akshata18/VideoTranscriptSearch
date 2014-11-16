@@ -1,0 +1,9 @@
+(Refer Slide Time: 34:25) 
+
+ This is a LEX specification for the expression parser that we already saw. It has NUMBER, it has NAME, then POSTPLUS, POSTMINUS as its tokens. (Refer Slide Time: 34:40) 
+
+ Here is the YACC specification. To begin with, there are some declarations of a symbol table, then a routine called symlook, and then there are some include statements. These are all part of the user code, which is supplied. 
+
+
+
+

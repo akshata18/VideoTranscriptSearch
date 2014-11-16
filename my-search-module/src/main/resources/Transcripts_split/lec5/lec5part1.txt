@@ -1,0 +1,7 @@
+(Refer Slide Time: 00:33)
+
+So, we are in this course, we are going to learn Graph theory. For this course, I will be
+using the following books one is a Graph theory by Reinhard Diestel, and other one
+introduction to Graph theory by Douglas West; in the Graph theory by Bondy and Murty
+and Bollabas modern Graph theory.
+

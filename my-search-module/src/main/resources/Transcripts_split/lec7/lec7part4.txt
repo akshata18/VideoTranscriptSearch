@@ -1,0 +1,20 @@
+(Refer Slide Time: 19:47)
+
+Well, observe that d value of x 1, which has to be delta value of S x 1 is K minus 1. This
+is the first vertex from this end on the path namely x 1. This is x 1. This is K and this is
+K minus 1. Why is it K minus? If there was a shorter path from s to x 1 with length less
+than x 1, then I can replace this path by that shorter path and then I will get a path from S
+to V of length less than K.
+That is not possible. This is the shortest path. So each sub path is the shortest, if delta of
+delta S x 1 is K minus 1. Then, from induction hypothesis the two are equal now,
+because the d value is equal to this. So, when we expand the neighbors of x 1, that is
+vertex U in the step 5.1 was x 1, then we were looking at the neighbors of x 1 here. If it
+was unvisited, that is among these. We had this V vertex here, which is one of the
+neighbors. If it was unvisited, then I would have assigned the d V to be d U plus 1, which
+is K minus 1 plus 1 is K.
+Suppose, this was not unvisited, which means it was visited earlier, so the parent of V
+came before x 1 came. The second situation is while expanding at x 1, we visited V. We
+found that V was not unvisited. So, V must have been visited through some other vertex.
+So, the parent of V occurred before x 1. So, we know that the parent of V is either x 1 or
+it came before x 1.
+

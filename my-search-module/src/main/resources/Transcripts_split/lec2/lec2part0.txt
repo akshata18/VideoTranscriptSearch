@@ -1,0 +1,7 @@
+Compiler Design Prof. Y. N. Srikant Department of Computer Science and Automation Indian Institute of Science, Bangalore  Module No. # 01 Lecture No. # 01 An Overview of a Compiler This is a lecture about an Overview of a Compiler. (Refer Slide Time: 00:30) 
+
+ In this lecture, we will go through a block diagram of a complier and look at the various phases of a compiler. For example, there is a lexical analysis phase, there is a parsing phase, there is semantic analysis, there is intermediate code generation, code optimization, and also machine code generation. We look at each phase with some example, minor description of what is happening, and so on and so forth. 
+
+
+
+

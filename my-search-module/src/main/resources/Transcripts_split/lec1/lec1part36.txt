@@ -1,0 +1,3 @@
+(Refer Slide Time: 50:52)
+This is the behavior we are interested in our course. Hence we consider asymptotic
+analysis for this.

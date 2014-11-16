@@ -1,0 +1,34 @@
+(Refer Slide Time: 00:45:58)
+
+You can see that I have inserted earlier as a guest and quoted 25000 and 18000 as the unit
+price and without monitor I have quoted 18000. So that information is reflected here as
+you can see here and the default samtel has been picked up and I said vat is extra and that
+is also available for me here. Now as far as the work flow is concerned, I can use this
+information whatever people have quoted and pick whatever quotations that I want, put
+them into the approved quotations for examples for computers. This will basically reflect
+the approved quotations for the computers.
+Now you can see all the approved data is available in this particular case and then this is
+the approved systems for computer systems and that’s how the information can be
+organized in terms of your database tables. I can pick the informations from one table and
+then you know it can be added on to the other table. All this is what basically are called
+transactions. So you are going to look at in this course in detail how transactions operate
+on the database system on the underlining data and change the state of the data as it goes.
+For example each one of this can be seen to be a transaction for example, one can think
+of which are the things that are actually transactions in this particular case.
+I am searching through the computer configuration as I have actually shown you earlier.
+Now in this particular case I am actually the first level search is not a transaction because
+it is just giving me all the fields that I can use for searching. Now you can see once I
+come here, this is the point where I choose a specification and once I choose a
+specification or a vendor name for example I am actually trying to make a query into the
+database. It is at this stage actually it goes and picks up this data from the database table
+that I have underneath.
+For example these are all the vendors that I have in my system and now once I choose
+one more vendor here and I say, let us say I am actually choosing the one of the vendors
+that is available here and then submit that thing. It again goes and reads the data from the
+
+database. These are actually called the read only transactions because all that they are
+doing is they are just going into the database and reading the information that I have and
+then giving me in a convenient form where I can look at it through my browser. So lot of
+thing will be happening underneath but then ultimately all that it is required here is to go,
+carry the database, get the required information and show this information for somebody
+who is asking for that information.

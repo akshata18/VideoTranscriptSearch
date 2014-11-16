@@ -1,0 +1,18 @@
+(Refer Slide Time: 30:36)
+The worst case is the measure of interest in which we will be working with. Asymptotic
+analysis is the kind of thing that we have been doing so far as n and n2 and the goal of
+this is to analyze the running time while getting rid of superficial details.
+We would like to say that an algorithm, which has the running time of some constant
+times n2 squared is the same as an algorithm which has a running time of some other
+constant times n2 ,because this constant is typically something which would be dependent
+upon the hardware that your using.
+3n2 = n2
+In the previous example 1 c , 2 c and 3 c would depend upon the computer system, the
+hardware, the compiler and many factors. We are not interested to distinguish between
+such algorithms. Both of these algorithms, one which has the running time of 3n2 and
+another with running time n2 have a quadratic behavior. When the input size doubles the
+running time of both of the algorithm increases four fold.
+That is the thing which is of interest to us. We are interested in capturing how the running
+time of algorithm increases, with the size of the input in the limit. This is the crucial point
+here and the asymptotic analysis clearly explains about how the running time of this
+algorithm increases with increase in input size within the limit.

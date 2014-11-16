@@ -1,0 +1,6 @@
+(Refer Slide Time: 00:11:05)
+
+This is the transaction id automatically generated and it says how do we actually want to
+make this payment. I can say since I have now various ways in which these can be pay
+probably, you can see that there are now city bank debit card you know, SBI. Let us say
+that I have SBI account, so I will now try to do this using the SBI net banking.

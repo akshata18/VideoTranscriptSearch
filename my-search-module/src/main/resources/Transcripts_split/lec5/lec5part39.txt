@@ -1,0 +1,14 @@
+(Refer Slide Time: 51:16)
+
+Similarly, what will happen if I remove an independent, suppose this Graph and I I mark
+an independent, suppose this is an independent set. Now, let us take the biggest
+independent set, independent set maximum and remove it. So, clearly what remains here
+is going to be a VC - vertex cover why because any edge is going to be like this only, it
+is not possible to have an edge like this. So, any edge is a has at least one of these end
+points in this part. So, it is a vertex cover.
+So, the minimum vertex cover has to be even smaller than this. So, we get cardinality of
+the minimum vertex cover is less than equal to the number of vertices minus alpha of G.
+This is this cardinality is alpha of G, because it is the cardinality of the maximum
+independent set. So, from the earlier slide we see, this can be rearranged to right
+cardinality of MVC is greater than or equal to n minus alpha of G; here in the other side,
+we can see that cardinality is less than equal to n minus MVC.

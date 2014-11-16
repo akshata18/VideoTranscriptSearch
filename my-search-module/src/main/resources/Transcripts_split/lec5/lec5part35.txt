@@ -1,0 +1,20 @@
+(Refer Slide Time: 45:20)
+
+We can sorry we can again consider in our. So, for a for getting familiar with this
+parameter, we can consider this question for instance in a complete Graph K n, what is
+the cardinality of the biggest independent set. So, of case that there is x is an independent
+set of cardinality one, because if we just take one vertex, there is no edge on it. But it is
+possible to have anything more anything bigger, suppose I take any two vertices in a
+complete Graph between these two vertices there is an edge; therefore, it is not possible
+to have any on independent set of cardinality more than one.
+The therefore, the the independent stability number of K n is equal to one. So now, what
+about say the complete Bipartite Graph on K m n, s i s v mention this one right. So, when
+we have the all these edges m vertices here, and n vertices; the the biggest independent
+set. So, it has to be n right; the here you can see an independent set, n is the bigger
+number. So, what if what if it is say, because it cannot be more than that, because
+suppose an independent set cannot have a vertex x from here and a y from here, because
+there is a connection between them. Then edge between them. So, it is not possible to
+have one vertex from this side, and one vertex from; either we have to take all of these
+things or we have to take all of these things right. So, the best thing is to take the bigger
+side.
+

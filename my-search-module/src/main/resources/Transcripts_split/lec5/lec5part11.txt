@@ -1,0 +1,15 @@
+(Refer Slide Time: 11:41)
+
+That means, suppose we can consider this simple Graph. So, here there are 6 vertices in
+this Graph. So 1, 2, 3, 4, 5, 6. So, between 1 and 2 there is a path, between 4 and 6 there
+is a path, but suppose I consider the vertex 1 and the vertex 4, then I do not see any path path means, if I start from here and then follow an edge, and then I cannot reach here.
+So, this is a disconnected graph. Now, how do I make for instance if, this has to be
+became a connected graph. So, for instance I can put this edge here. So, then this
+becomes a connected graph; that means, if I start from any vertex, I can reach any other
+vertex using a path, path is like this. So, this is the notion of the connected (( )).
+In this lecture, I am not going to tell all the definitions as in a text book, because that will
+be very boring for a class. So, what I will do is I will introduce the notions which are
+necessary to understand the things as and when it is required. But it also advisable that,
+this students can go through the introductory chapter of one of these text books which I
+mentioned earlier say, the the once which I mentioned earlier for instance this one.
+

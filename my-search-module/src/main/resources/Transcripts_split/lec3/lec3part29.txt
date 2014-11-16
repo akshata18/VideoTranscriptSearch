@@ -1,0 +1,10 @@
+(Refer Slide Time: 37:49)
+
+For example, one may have a theory about how humans recognize faces. We do not know
+how we recognize faces, how our brain recognizes faces, how we store all the different
+faces or some of the many different faces that we have seen in our lifetime and how we
+look at a person and recognize them. So, cognitive scientists have come up with different
+theories about how people recognize faces or how people solve different types of
+problems. And some of these theories can be tested by building similar mechanisms
+which are machine and testing how well the machines perform. Here I have outlined
+some of the topics of AI.

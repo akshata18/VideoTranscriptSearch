@@ -1,0 +1,8 @@
+(Refer Slide Time: 50:33)
+
+So, so here for instance it was like this. So, suppose this is I draw a Graph like this now,
+suppose you you can mark some vertices; as this is the minimum vertex cover here, let us
+MVC. So, here we have n minus cardinality of MVC number of vertices. This is going to
+be an independent set, this is independent set. So, the biggest independent set has to be
+even bigger than this possibly even bigger than this, that is why we say alpha of G has to
+be greater than or equal to n minus MVC.

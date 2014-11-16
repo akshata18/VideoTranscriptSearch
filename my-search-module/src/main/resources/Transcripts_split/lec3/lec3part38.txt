@@ -1,0 +1,5 @@
+(Refer Slide Time: 47:02)
+
+And finally we want to know how to build an efficient computer. So, in the ancient days
+Aristotle in the 4th century B.C. developed an informal system of logic which was the
+first formal deductive reasoning system.

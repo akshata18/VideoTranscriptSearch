@@ -1,0 +1,25 @@
+(Refer Slide Time: 38:28)
+
+You can probably see it on any of the books. In each cycle the four quadrants basically
+try to address what we mentioned earlier. They enumerate alternatives, and then they
+evaluate those alternatives, try to identify the risks and build a development and carry out
+evaluation for the next phase. So the spiral model addresses the different risks and can be
+used in large projects where both the requirement risk is present and development risk is
+present. We have seen these different development methodologies. We saw three or four
+of them the waterfall model the prototype model. Now let us move on to another process
+which is equally important and you are going to study this in more details. But at this
+point i will only give an overview of the management process. As we said earlier, any
+large project needs to be managed. We prepare a project plan and we then manage the
+whole project according to that plan. So naturally the project management runs in parallel
+to the whole development process. As the development is progressing we are having a
+continuous management oversight.
+So in the case of project management, we have primarily, activity of defining the project
+plan. In the project plan we will identify different activities, resources, deliverables, and
+timelines and so on. So once the plan is ready then we will monitor it and also control as
+it progresses. A project plan indicates how the project will be executed. And there are
+very important things we must understand about the planning. A project plan is
+absolutely essential for successful completion of the project. Therefore we must
+appreciate some of the points which are important in a project plan. The first is that if you
+do not have a plan then there is no management. There is no question of doing any
+management if the plan does not exist. Then without making any measurements, it is not
+possible to prepare any plans.

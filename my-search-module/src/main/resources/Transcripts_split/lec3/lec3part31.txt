@@ -1,0 +1,20 @@
+(Refer Slide Time: 39:55)
+
+However, if you want to artifact a system that has general intelligence that can work
+intelligently in any domain we need to have a lot of things. For example, such a system
+must have common sense knowledge which is needed to function in open ended worlds.
+We use such a huge amount of common sense knowledge or background knowledge to
+do our tasks well. If we really start thinking and try to note them down then it is a huge
+effort. There is an effort at Stanford University by Tog Lenat Guha and others called the
+psyche project whose objective is to document all common sense knowledge so that one
+can have a system that can use all these common sense knowledge for their reasoning.
+Secondly, a general unconstrained AI system must be able to understand natural
+language, in fact unconstrained natural language. Though there has been a lot of stride in
+natural language understanding, then understanding unconstrained natural language in
+general is a very difficult problem which will require a lot of expertise to solve
+completely.
+What can today’s AI systems do?
+
+We have systems that can recognize faces, we have almost autonomous vehicles, our
+natural language processing systems can do simple machine translation. Our expert
+systems can do medical diagnosis in a narrow domain.

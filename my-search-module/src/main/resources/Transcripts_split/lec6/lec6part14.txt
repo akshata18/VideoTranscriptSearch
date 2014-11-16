@@ -1,0 +1,19 @@
+(Refer Slide Time: 32:23)
+
+In the iterative development we define the initial scope and try to build a product which
+will meet the initial scope that was identified and then release it quickly to get customer
+feedback. Here iterative development is a good methodology for those software projects
+which want to build products, which will be of use to many customers. So here we are
+developing a product whose functionality may not be clearly known or there may be too
+many features that we may want to provide. But we would rather like to release a product
+quickly capture the market and get customer feedback. So this is the situation which is
+ideal for iterative development.
+
+Here the development takes place in multiple iterations and many versions of the
+software may be released. You must be already familiar that some of the products such as
+database products or packages like pay roll or accounting packages are available in the
+market in versions. Basically the latest version represents additional features which have
+been added from the previous version based on the requirements as perceived or based on
+the customer’s feedback. When we develop the initial version we may of course follow
+any method. For example, we may follow the waterfall method for the initial version of
+the product.

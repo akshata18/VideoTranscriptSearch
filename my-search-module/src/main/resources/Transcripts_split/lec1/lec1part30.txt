@@ -1,0 +1,15 @@
+(Refer Slide Time: 43:19)
+What is a better solution? We will have a variable S in which we would keep
+accumulating the X[i]. Initially S=0. When I compute A[i], which I already have in S, X
+[0] through X [i-1] because they used that at the last step. That is the problem here.
+a  a +X[j]
+Every time we are computing X. First we are computing X [0] + X [1], then we are
+computing X [0] + X [1] +X [2] and goes on. It is a kind of repeating computations. Why
+should we do that? We will have a single variable which will keep track of the sum of the
+prefixes. S at this point (s s+x[i]), when I am in the ith run of this loop has some of X
+[0] through X [i-1] and then some X[i] in it. To compute ith element, I just need to divide
+this sum by i +1.
+S  S +X[i]
+A[i]  S/ (i+1)
+I keep this accumulator(S) around with me. When I finish the ith iteration of this loop, I
+have an S, the sum X [0] through X[i]. I can reuse it for the next step.

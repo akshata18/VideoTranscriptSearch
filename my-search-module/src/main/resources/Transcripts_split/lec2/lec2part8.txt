@@ -1,0 +1,7 @@
+(Refer Slide Time: 23:31) 
+
+ Whatever we described in the syntax of a programming language as a context-free grammar, is not necessarily always context free, it can even be specified in the form of regular expressions. That is what I want to show here. For example, we have blanks, which are nothing but a blank or tab any number of times, a letter, digit, then identifier, number; these are all the usual tokens that are recognized by a LEX specification. Here comes the next one. You are still in the definitions part. Array declaration part is actually an identifier followed by right bracket followed by a number, which is nothing but the number of dimensions of the array followed by the right square bracket; whereas, a declaration part is array declaration part or just a simple name. A declaration list is a list of such declaration parts and a complete declaration says – integer or float followed by blanks followed by a declaration list followed by blanks again. 
+
+
+
+

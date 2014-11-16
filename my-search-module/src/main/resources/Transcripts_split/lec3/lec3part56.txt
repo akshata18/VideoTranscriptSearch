@@ -1,0 +1,6 @@
+(Refer Slide Time: 55:10)
+
+We have already looked at the deep blue chess playing program and we have interactive
+robot pets which have become commercially available realizing the vision of the 18th
+century toy makers. In 2000 the nomad robot explored remote regions of Antarctica and
+AI is a popular topic which is constantly in the news.

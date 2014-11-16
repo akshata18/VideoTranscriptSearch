@@ -1,0 +1,7 @@
+(Refer Slide Time: 15:30)
+
+This is a schematic diagram of the Turing test, this is the interrogator sitting in front of
+the terminal, this is a wall room. The wall room may contain either a human or a
+computer and the interrogator has to decide whether what is inside is a computer or a
+human being.
+

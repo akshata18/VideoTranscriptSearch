@@ -1,0 +1,27 @@
+(Refer Slide Time: 39:10)
+Similarly our algorithm which has the running time of O (log n) is better than the one
+which has running time of O (n). Thus we have a hierarchy of functions in the order of
+log n, n, n2 , n3 , 2n .
+There is a word of caution here. You might have an algorithm whose running time is
+1,000,000 n, because you may be doing some other operations. I cannot see how you
+would create such an algorithm, but you might have an algorithm of this running time.
+1,000,000n is O (n), because this is  some constant time n and you might have some
+other algorithm with the running time of 2 n2 .
+Hence from what I said before, you would say that 1,000,000 n algorithm is better than
+2 n2 . The one with the linear running time which is O (n) running time is better than O
+( n2 ). It is true but in the limit and the limit is achieved very late when n is really large.
+For small instances this 2 n2 might actually take less amount of time than your 1,000,000
+n. You have to be careful about the constants also.
+We will do some examples of asymptotic analysis. I have a pseudo code and I have an
+array of n numbers sitting in an array called x and I have to output an array A, in which
+the element A[i] is the average of the numbers X [0] through X[i]. One way of doing it is,
+I basically have a for loop in which I compute each element of the array A. To compute
+A [10], I just have to sum up X [0] through X [10], which I am doing here.
+For j  0 to I do
+A  a + X[j]
+A[i]  a/ (i+1)
+To compute A [10], i is taking the value 10 and I am running the index j from 0-10. I am
+summing up the value of X from X [0] - X [10] in this accumulator a and then I am
+eventually dividing the value of this accumulator with 11, because it is from X [0] to X
+[10]. That gives me the number I should have in A [10]. I am going to repeat this for
+11,12,13,14 and for all the elements.

@@ -1,0 +1,9 @@
+(Refer Slide Time: 47:51)
+In  notation f (n) is  (g (n), if there exist constant 1 C and 2 C such that f (n) is
+sandwiched between 1 C g (n) and 2 C g (n). Beyond a certain point, f (n) lies between 1
+constant time g (n) and another constant time of g (n). Then f (n) is  (g (n)) where f (n)
+grows like g (n) in the limit. Another way of thinking of it is, f (n) is  (g (n)). If f (n) is
+O (g (n)) and it also  (g (n). There are two more related asymptotic notations, one is
+called “Little-oh” notation and the other is called “Little-omega” notation. They are the
+non-tight analogs of Big-oh and Big-omega. It is best to understand this through the
+analogy of real numbers.

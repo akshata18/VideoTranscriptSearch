@@ -1,0 +1,5 @@
+(Refer Slide Time: 47:54)
+
+Blaise Pascal in 1642 built the first mechanical digital calculating machine. Leibniz in
+1673 improved Pascal’s machine.
+

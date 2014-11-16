@@ -1,0 +1,21 @@
+(Refer Slide Time: 8:23)
+Here is an example of pseudo code and you might have seen this in earlier courses also.
+What is this algorithm doing? This algorithm takes an array A, which stores an integer in
+it and it is trying to find the maximum element in this array. Algorithm array Max (A, n)
+The above mentioned example is not a program, because the syntax is wrong. But it is a
+pseudo code which is a mixture of natural language and some high-level programming
+concepts.
+I am going to use a for loop, do loop, if-then-else statement and a while loop. But I will
+not bother about whether there should be a semicolon or a colon, because they are
+required for the compiler. But for our understanding, what the program is doing is clear.
+In the beginning it keeps track of the maximum variable in a variable called current max
+which is initialized to the first element of the array. Current Max  A [0] Then it is
+going to run through the remaining element of the array, compare them with the current
+maximum element. If the current maximum element is less than the current element, then
+it would update the current max. A[i] becomes the new max and then when the loop
+terminates we would just return current max.
+If current Max < A[i] then current Max  A[i]
+return current Max
+It is a very simple algorithm but just with this pseudo-code, you are able to understand
+what it is doing. This will not run on any computer since it is the pseudo-code, but it
+conveys the idea or the concepts.

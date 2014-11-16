@@ -1,0 +1,23 @@
+(Refer Slide Time: 15:43)
+I am going to look at jth element and I put that in key. Key  A[j] I have to insert A [j]
+or the key in to the sorted sequence which is A [1] through A [j-1]. i.e. A [1_j-1] I am
+going to use the index i to do this. What is index i going to do? Index i is going to run
+down from j-1 down to 1. We have to decrease index i, which we are doing in the
+while… do loop.
+It starts with the value j-1. I have to insert 7 and i am going to move 9 to 7th location,
+because 9 is greater than 7. Then I compare 7 with 8 and 8 is still greater than 7, so I will
+move it right. Then I compare 7 with 6. As 6 is smaller than 7, I would put 7 in the
+appropriate place.
+I run through this loop, till I find an element which is less than a key. Key is the element
+which I am trying to insert. This loop will continue while the element, which I consider is
+more than key and this loop will terminate, when I see an element which is less than key
+or the loop will terminate when I reach i=0. While i >0 and A[i] > key do A [i+1]  A[i]
+That means I have moved everything to the right and I should insert the element at the
+very first place and I am just shifting the element one step to the right. Do A [i+1]  A[i]
+Note that I have to insert 7 at the right place, so I shift 9 right to 1 step. 9th location
+becomes empty, then I shift 8 to 1 step, so this 8th location becomes empty and now I put
+7 there. i + 1 is the index, which would be the empty location eventually and i put the key
+there. A [i+1]  key All of you can implement it. May be you would have implemented
+it in a slightly different way, that would give you a different program, but the algorithm is
+essentially the same. You are going to find the right place for the element and insert it.
+Let us analyze this algorithm.

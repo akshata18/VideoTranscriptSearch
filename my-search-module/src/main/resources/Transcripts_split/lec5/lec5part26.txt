@@ -1,0 +1,7 @@
+(Refer Slide Time: 29:32)
+
+And from known I will introduce some concepts, some concepts about Graphs. The first
+one is called a vertex cover. So, what is a vertex cover? The set S of the vertex set of G S
+subset of V of G is a vertex cover of G, if every edge of G is incident with a vertex in S.
+A vertex cover of the minimum cardinality called a minimum vertex cover.
+

@@ -1,0 +1,15 @@
+(Refer Slide Time: 34:53)
+
+We generally maintain a list of features which have to be implemented in future releases
+and we will come out with the versions in the future as we implement these features and
+release the product. Each version will be analyzed and we will keep on updating our
+featured list. So our third methodology is the iterative development. Finally we have
+methodology called spiral model. In the spiral model we go through the development in
+cycles and each cycle is divided into four quadrants. These quadrants as you see here are
+named; the first quadrant, we tried to define the objectives alternatives what are the
+constraints. So this is the starting point. Then we evaluate those alternatives and clearly
+identify the risks. Now these risks may be pertaining to the interfaces, pertaining to
+performances and so on. Based on these risks in the third quadrant of the cycle, we tried
+to define what implementation will perform, and after the third in the fourth quadrant we
+identify how we will plan the subsequent cycle.
+

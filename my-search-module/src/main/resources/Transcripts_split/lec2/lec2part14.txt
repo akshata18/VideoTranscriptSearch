@@ -1,0 +1,9 @@
+(Refer Slide Time: 36:37) 
+
+ Here is the specification. Let us look at expression to begin with. NAME equal to expression; that is the assignment statement, expression plus expression, expression minus expression, expression star expression and expression slash expression. These are all the right-hand sides of the various rules and then of course, parentheses expression parentheses, minus expression. (Refer Slide Time: 37:09) 
+
+ There are some more – NUMBER, NUMBER POSTPLUS, NUMBER POSTPLUS; these are the various right-hand sides of the productions. 
+
+
+
+

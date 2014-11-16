@@ -1,0 +1,22 @@
+(Refer Slide Time: 01:42)
+
+So, it is a much easier to represent a Graph by a drawing; so, it can be like this say. Let
+us say I am drawing, if these vertex sets, vertex sets; this is 1, 2, 3, 4, 5. So 1, 2, 3, 4, 5 of
+the set of vertices, and the edges can be say e 1, e 2, e 3, e 4, e 5 say. So here, the edge e
+1 is associated with the two vertices 1 and 5. It is call the end points of the edge e 1, the
+edge e 2 is associated with the 5 and 2, the end points of e 2 like that. Now, what kind of
+edges is possible? So, it is not necessary that the two vertices associated with an edge the
+end points or distinct to vertices (( )) it can be like this, the two vertices associated with
+this edge say e 6 is 2 and 2.
+So, it is called a loop, because both the end points are same. Now, it is also possible that
+there are many edges, which are associated to the same pair of vertices. For instance it is
+possible to have several edges say e 2, say e 7, e 8; such that the two vertices associated
+with them are same, the same 5 and 2. So, then we call this is a multiple edges here
+between this two vertices. The when we denote have any loop or multiple edge in a
+Graph, then we say that the Graph is a simple Graph. It is also possible that our vertex
+set is infinite, the edge set is infinite, but if you assume that both the vertex set and the
+edge set is finite. Then we say that it is is a finite Graph.
+Usually in this course, most of the time we will be taking about finite Graphs, and a
+simple Graphs, if at all we are talking about non-simple Graphs will be explicitly
+mentioning that or if we talk about infinite Graph will be explicitly mentioning that.
+

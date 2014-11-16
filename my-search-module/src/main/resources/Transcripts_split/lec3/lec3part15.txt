@@ -1,0 +1,16 @@
+(Refer Slide Time: 18:31)
+
+Now which of these problems are easy for the computer to do and which of these
+problems are hard. Surprisingly it has been much easier to mechanize many of the high
+level tasks which are so called expert tasks which has been easier in the history of AI and
+the history of computers. It has been easier to solve problems which are really the domain
+of experts but AI has not had the same amount of success in dealing with mundane tasks.
+For example, AI systems can easily do symbolic integration. Some of the systems can
+prove some theorems. AI systems can play chess quite well. There are systems “ “
+diagnosis in particular domains. However, there are certain things that humans and
+animals do quite effortlessly.
+For example, walking around without running into things catching prey and avoiding
+predators, interpreting complex sensory information, modeling the internal states of other
+animals trying to understand what they are thinking about us and how to plan what to say
+and so on and also working as a team or collaborating.
+

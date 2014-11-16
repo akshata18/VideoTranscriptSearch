@@ -1,0 +1,20 @@
+(Refer Slide Time: 24:54)
+
+One of them is the prototyping model. In the prototyping model we try to build a
+prototype rather than the final solution. And we do this especially when the customer is
+either not aware of his requirements that what exactly he would like to how the software
+would do for him. Or the developer is not sure about how to develop the software, how to
+implement the business rules which are generally required for the software. So he may
+not be certain about the best algorithms that need to be implemented in order to meet the
+requirements. Or if efficiency is primary criteria, we are trying to let us say build
+software which will give very high response time, then what kind of techniques one
+should use in order to guarantee that kind of efficiency or response time. Now these may
+be some of the unknowns either to the customer or to the developer.
+In such situation we might rather decide to build a simple prototype and to find out either
+the requirements or the techniques for implementation. So prototyping model is an
+intermediate model or intermediate kind of a step in trying to define the requirements or
+the solution approach. Usually, we will develop a prototype and we will do it in different
+stages. And to begin with the prototype that we will build will be based on the user needs
+as we currently understand them. Or the solution approaches as we understand them in
+the beginning and we will review and refine them.
+

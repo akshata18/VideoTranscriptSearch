@@ -1,0 +1,7 @@
+(Refer Slide Time: 18:16)
+
+So, next let us say. So, too... So we can consider a Graph, and then if we can ask this
+question is there a Sub Graph is there a Sub Graph for G, which is isomorphic to a cycle
+cycle on 3 vertices, 4 vertices, 5 vertices; if there is no Sub Graph for G which is
+isomorphic to a cycle, then we say that it is an acyclic Graph.
+

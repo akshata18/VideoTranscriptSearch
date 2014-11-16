@@ -1,0 +1,9 @@
+(Refer Slide Time: 07:06)
+
+Another objective of today’s lecture is also to let you develop an appreciation of the vast
+scope of Artificial Intelligence and the intellectual challenges that are there in the field.
+On talking today’s course you should be able to have a fair idea of the types of problems
+that can be currently solved by the computers and today’s techniques that we know. We
+will also have an idea of those problems that is still difficult or we cannot yet solve it by
+the techniques that we know today.
+

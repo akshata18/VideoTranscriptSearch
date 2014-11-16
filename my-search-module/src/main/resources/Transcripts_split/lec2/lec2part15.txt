@@ -1,0 +1,7 @@
+(Refer Slide Time: 37:16) 
+
+ The left-hand side is common; that is expression. So, expression going to NAME equal to expression, expression going to NAME; this is the way to read this particular grammar specification. What is happening here? lines is nothing but a couple of productions added to make sure that the calculator does not stop prematurely. It will actually be going into an infinite cycle until you press some strange characters. The YACC specification also has an action part here. For example, NAME is equal to expression; it says that dollar 1 pointer value is dollar 3 and dollar dollar is dollar 3. So, dollar dollar is the value of the left-hand side symbol expression, dollar 1 pointer value is the value of the token name, and dollar 3 is the value of the expression in the right-hand side of the production, NAME equal to expression. So, this simple says – the value of the left-hand side non-terminal expression is nothing but the value produced by the expression on the right-hand side, which is fine with us; that is the way it should be. Similarly, expression plus expression says - the value of the left-hand side is dollar dollar equal to dollar 1 plus dollar 3, which is the sum of the two values produced by the two expressions. So, this is the way it continues. This is just to give you a sample of how YACCs specifications are returned. I am going to skip the symbol table routines because they are not really important for our discussion. 
+
+
+
+

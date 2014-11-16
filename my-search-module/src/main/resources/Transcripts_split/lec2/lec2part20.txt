@@ -1,0 +1,14 @@
+(Refer Slide Time: 53:27) 
+
+ How are these translation grammars implemented? Let us say – we consider YACC. In YACC, how do we implement such translation grammars? The most important thing to observe is – these are all very simple and these can be read and understood very easily because they are very similar to what we had before. The symbol table is going to be a global structure here. The other important thing that we 
+
+
+
+
+need to do is to make sure that we understand this production, which breaks the single production E going to let id equal to E in E into these three productions: E to L B, L to let id equal to E and B going to in E. In these two productions everything else happens. In this production (Refer Slide Time: 54:15), there is a new scope, which is generated and the name is inserted with the new scope. Once we complete this entire production, the entries of the previous scope are deleted, the scope number is reduced and we return. In other words, this breakage of productions is essential because YACC permits addition of rules only at the end of a context-free grammar production. Further, it allows only synthesized attribute. In the inherited attribute, the symbol table is implemented in the form of a global variable. Similarly, in order to make sure that it is available wherever it is used, we have to make it a global variable. These are the two reasons why we need to make this symbol table into a global variable. (Refer Slide Time: 55:25) 
+
+ We will stop the lecture at this point with a picture saying that in the next class, we will be looking at conversion of the semantically validated syntax tree into intermediate code and then look at what happens to intermediate code when it goes through the machine code generation phase and optimization phase, etcetera. Thank you.  
+
+
+
+

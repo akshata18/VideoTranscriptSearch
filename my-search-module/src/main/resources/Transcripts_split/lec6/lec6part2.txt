@@ -1,0 +1,18 @@
+(Refer Slide Time: 03:34)
+
+There is a linear or sequential order in which the different activities are performed. It
+follows what we may call; “specify, design, build” sequence of activities, which should
+appear to be quite obvious. What it really means is that, you cannot design something
+which is not clearly specified. And if you have not done the design, naturally you cannot
+build. This is like going to market without knowing what you want to buy. Naturally you
+can’t buy them or you can’t compare different products. You need to have clear
+specifications in mind before you go and want to buy something. Similarly when you
+want to build something, you must define what needs to be build, what are the functions
+that need to be performed, and then carry out a design which is efficient, effective. And
+finally only when the design or the blue print is done, we start building. So we say that
+this sequence of activities appear to be obvious and natural. This is what the waterfall
+model tries to do.
+Waterfall model produces many intermediate deliverables. There is a deliverable at every
+step in the model. For each of these, proper standards have been defined. Most of these
+deliverables are actually documents which have a standard format.
+

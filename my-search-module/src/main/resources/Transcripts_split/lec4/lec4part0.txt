@@ -1,0 +1,61 @@
+Database Management System
+Prof. D. Janakiram
+Department of Computer Science & Engineering
+Indian Institute of Technology, Madras
+Lecture # 1
+Introduction to Database Management System
+Welcome to this course on introduction to database systems. This is an introductory
+course usually taught at the first semester of third year under graduate course, is also
+expected that you should have done course on data structures, file systems probably
+operating system to better appreciate the concepts covered in this course. Though the
+course material may not assume completely that you have understood all the
+prerequisites, it could also be done probably independently because wherever the
+concepts are required they would have been covered and some difference to the
+background material would have been indicated in the appropriate sections. It’s a 42
+lecture module of one hour duration and expected to be covered in a semester long
+course.
+What we will be doing is the two instructors in this course, when myself will be covering
+the transacting processing system at the later stage of the course and the other instructor
+Dr. Srinath will be covering the initial sections on database design ER modeling and
+other basic concepts in the initial sections of the course. What I am going to do in today’s
+lecture is give a brief introduction to databases and show the importance of databases
+and also in the process introduce some of the basic concepts that we will be covering in
+much more depth as we go in to the course.
+As the term databases indicates ever since data has been digitized and we are able to store
+data in digital form, we see that the mode of data that is being stored by corporates and
+other organizations as increased from a few kilobytes over a period of time to now
+terabytes. Now databases in that sense have become an integral part of our day today life
+in that we actually do lot of transactions, our day today transactions whether it is railway
+reservation or it is an airline ticket reservation or withdrawal of money from a bank. In
+some sense we are actually working with the underlining databases that this organizations
+have. They actually store the costumer data and other information, user information in the
+form of databases, in the form of databases where it is accessible by a number of other
+entities so that our regular transactions like withdrawal of money from the bank or
+reserving a ticket for a train, these are actually are business processes that are working
+with the underlining data that is stored in this organizations.
+In that sense databases are an essential thing in the business processing world and they
+become a key entity in terms of developing these applications, business process
+applications. To show what kind of you know, importance database have assumed in
+recent times, I will just show you an example of a business transaction in how we
+actually work with these business transactions in our day today life. I realized only
+yesterday that I actually have to pay a premium for one of my LIC policies and in normal
+sense what we do is for paying this policy, the LIC actually sends us an reminder which
+
+is a paper copy posted through the postal mail and normally look at this remainder and
+then you will actually send somebody or you go to the LIC branch and try paying the
+premium across through your cheque or something bank cheque or other mechanism, if
+you carry the cash you will use the cash to actually deposit and then take the receipt back.
+All this requires that you physically now move from one place to the other place and
+sometimes stand in the queue, if there are more people waiting to do this transaction and
+then the process you will really have to spend time in doing this transaction, business
+transactions in your day today life. But now with the digitization and the storing of this
+data into the digital form into the databases, what you start realizing is that it is possible
+for you to actually access this data online and then see that you have to pay a premium
+and then see you know if you know actually do this and get on to your bank you know
+and then pay the premium online through the bank and also get the receipt of this
+[inaudible] transaction back on your email, in your email box which means the whole
+transaction can be completed sitting in your office without moving even an inch from
+your office and fully finish this entire business transaction. And this is sometimes what
+we call as work flow to show how this work flow actually takes place. Let us see how the
+scenario which had explained earlier can be managed and I will show you online, how
+this whole thing actually can be done.

@@ -1,0 +1,55 @@
+(Refer Slide Time: 19:34)
+How about this operation? Key  A[j] I am going to do exactly n-1 times once for 2,
+once for3, once for 4 up to n. That is why this operation is being done up to n-1 times.
+Just leave the comment statement. Again the operation will be done exactly n-1 times.
+We have to look at how many times I come to this statement. While I >0 and A[i] > key
+j t - Counts the number of times I have to shift an element to the right, when I am
+inserting the jth card in to my hand. In the previous example when I am inserting 7, I had
+to shift 2 elements 8 and 9. j t is going to count that quantity and that is the number of
+times I am going to reach A[i] part of my while loop. While I >0 and A[i] >key
+I will be checking this condition for many times. For one iteration or for the th j iteration
+of this for loop, I am going to reach this condition for j t times. The total number of times
+I am saying that condition is the sum of j t as j goes from 2 to n.
+2
+n
+j j t  
+while I >0 and A[i] > key
+do A[i+1]  A[i]
+Every time I see (A[i] >key) condition I also come to A[i], because the last time I see the
+statement I would exit out of this condition. That is why this is j t -1 where j going from 2
+to n.
+2 1 ( ) n
+j j t   
+A [i+1]  A key. This statement here is not a part of the while loop rather it is a part of
+the for loop as it is done exactly n-1 times as the other statement. If you knew about the
+constants then the total time taken by the procedure can be computed. You do not know
+what j t is. j t is quantity which depends upon your instance and not problem. Problem is
+in the sorting. The instance is a set or a sequence of numbers that have given to you. Thus
+j t depends upon the instance.
+Let us see the difference that j t makes. If the input was already sorted, then j t is always
+1( j t =1). I just have to compare the element with the last element and if it is larger than
+the last element, I would not have to do anything. j t is always a 1 if the input is already in
+increasing order.
+What happens when the input is in decreasing order? If the input is in decreasing order,
+then the number that I am trying to insert is going to be smaller than all the numbers that
+I have sorted in my array. What am I going to do? I am going to compare with the
+1st element, 2nd element, 3rd element, 4th element and all the way up to the1st element.
+When I am trying to insert the jth element, I am going to end up in comparing with all
+the other j elements in the array. In that case when j t is equal to j, note that the quantity
+becomes its summation of j, where j goes from 2 to n. It is of the kind n2 and the running
+time of this algorithm would be some constant time n2 plus some other constant times n
+minus some other constant.
+1 2 3 7 4 5 6 2 3 5 6 7
+2
+( ) ( ) ( )
+n
+j
+j
+nc c c c t c c c c c c c c
+
+          
+Thus the behavior of this running time is more like n2 . We will come to this point later,
+when we talk about asymptotic analysis but this is what I meant by f (n2 ) . On the other
+hand in the best case when j t =1, the sum is just n or n-1 and in that case the total time is
+n times some constant plus n-1 times some constant minus some constant which is
+roughly n times some constant. Hence this is called as linear time algorithm.

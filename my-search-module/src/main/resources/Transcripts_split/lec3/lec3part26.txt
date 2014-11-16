@@ -1,0 +1,12 @@
+(Refer Slide Time: 31:29)
+
+Then there are internet agents. All of you are familiar with the explosive growth of the
+internet in recent years and there is a growing interest in internet agents that can monitor
+users’ tasks, seek information that is needed from the web and learn which information is
+most useful for a particular user. Now that we have looked at different examples of
+systems that use Artificial Intelligence we will briefly look at some approaches to AI and
+some approaches to solving AI tasks. One way of looking at AI is strong AI or weak AI.
+
+Strong AI aims to build machines that can truly reason and solve problems. Strong AI are
+machines that are self aware and whose overall intellectual ability is indistinguishable
+from that of a human being.

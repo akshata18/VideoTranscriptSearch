@@ -1,0 +1,7 @@
+(Refer Slide Time: 51:45)
+
+Then we have Danny Bobrow in 64 who worked with algebra word problems and in 1965
+Allen Robinson developed a resolution method. In 1966 to 74 there was a lot of work on
+computational complexity by not really AI researchers but by computer theorists which
+had a tremendous impact on the field of AI.
+

@@ -1,0 +1,6 @@
+(Refer Slide Time: 48:37)
+
+In the late 19th century and the early 20th century mathematical philosophers like Gottlob
+Frege, Bertram Russell, Alfred Whitehead and Kurt Gödel built on Boole’s initial logic
+concepts to develop mathematical representations of logic problems.
+

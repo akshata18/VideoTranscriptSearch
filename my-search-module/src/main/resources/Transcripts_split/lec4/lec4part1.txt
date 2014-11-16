@@ -1,0 +1,8 @@
+(Refer Slide Time: 08:47)
+
+So we will actually go to the LIC’s database. So this is the LIC’s portal which actually
+gives the user the ability to login to this LIC portal. Now I basically try login in to this
+database. So once I login here, I should be able to get all my data relating to what are the
+policies that I have with LIC and what are the premiums that I paid earlier with LIC and
+what are the due dates.
+

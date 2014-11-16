@@ -1,0 +1,4 @@
+(Refer Slide Time: 8:48)
+Thus pseudo-code is more structured than usual prose, but it is less formal than a
+programming language. How pseudo-code will look like? We will use standard numeric
+and boolean expressions in it.

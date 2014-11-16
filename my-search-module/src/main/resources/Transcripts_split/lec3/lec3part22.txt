@@ -1,0 +1,8 @@
+(Refer Slide Time: 26:29)
+
+Imagine how difficult it is when a doctor does not understand the language of the patient.
+And when the patient does not understand the language of the doctor the patient will not
+be able to communicate his symptoms to the doctor. So speechlator is used in order to
+help doctors do so. In space exploration robotic space probes autonomously monitor their
+surroundings, make decisions and act to achieve their goals. This is the homepage of
+Mars Exploration Rover Mission.

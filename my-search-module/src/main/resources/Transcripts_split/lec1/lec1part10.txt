@@ -1,0 +1,12 @@
+(Refer Slide Time: 10:33)
+Instead of the assignment operator which is ‘=’ in java, I will use  and instead of the
+equality operator, an equality relationship in java which is ‘= =’ the same in C, I will just
+use ‘=’. I will declare methods with the algorithmic name and the parameter it takes.
+Algorithm name (param 1, param2)
+I will use all kinds of programming construct like if …then statement, if …then… [else]
+statement, while … do, repeat …until, for … do and to index array I will say A[i], A [i,
+j]. It should be clear in what it is doing.
+I will use return when the procedure terminates and return value will tell about the value
+returned by the particular procedure or a function. returns: return value When I have to
+call a method, I will specify that with the name of the method and the argument and the
+object used. calls: object method (args)

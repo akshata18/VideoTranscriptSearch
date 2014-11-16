@@ -1,0 +1,15 @@
+(Refer Slide Time: 36:21)
+
+So, with some thought we can understand that we will have to take. So, if we take n
+minus 1 vertices from the, from the n vertices. Then we can cover all the edges; cover the
+edges means. So, the all the edges will have at least one end point in it. For instance, so
+let us say this complete Graph, this is the K for the complete Graph on four vertices.
+Now, if I take say if I take this one, this one, and this one; then you see that all the edges
+are covered, it is very easy to verify.
+But now the question is it possible that. So, the from this thing what do we get, there
+exist vertex cover of cardinality 3; that means, say n minus 1 for a complete Graph on n
+vertices, but is it possible that we can cover all the edges of a complete Graph on n
+vertices by less than n minus 1, what if it is possible some clever way of selection.
+But some thought will reveal to us that; it is not possible, because suppose we can do that
+suppose we can do that, using just n minus 2.
+

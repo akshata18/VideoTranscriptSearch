@@ -1,0 +1,4 @@
+(Refer Slide Time: 54:32)
+
+Earlier AI systems used very general systems of little knowledge but recent AI systems
+use specialized knowledge to perform specific tasks.

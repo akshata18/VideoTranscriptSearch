@@ -1,0 +1,6 @@
+(Refer Slide Time: 54:12)
+
+In 1980 lisp machines were developed and marketed. In 1985 to 95 neural networks
+returned to popularity. In 1988 there was a resurgence of probabilistic and decision
+theoretic methods.
+

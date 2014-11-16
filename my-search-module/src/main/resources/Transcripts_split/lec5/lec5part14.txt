@@ -1,0 +1,9 @@
+(Refer Slide Time: 13:45)
+
+Now, one word which we always use as isomorphism. This is for instance, we can we
+sometimes say that there is, a path on 5 vertices is a sub Graph of G, is essentially a path
+on 5 vertices is isomorphic to Sub Graph of the given Graph like that. So, therefore, it is
+I will just mention this word.
+So, an isomorphism from a simple Graph G to a simple Graph H is a Bijection, such that
+whenever u and u, v is an edge of G, then the corresponding pair f of u comma f of v is
+an edge of H. So, to understand this thing we can take an example.

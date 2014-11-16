@@ -1,0 +1,15 @@
+(Refer Slide Time: 48:57)
+
+So, we can. So that suppose, if you remove a maximum a sorry, vertex cover - any vertex
+cover from the Graph what will happen. So, if you remove the set of vertices that form a
+vertex cover from the Graph what will happen. The remaining vertices that you see is
+going to be an independent set; why is it so, because if there is any edge in this in the
+remaining collection of vertices, then this edge will not be covered by anybody, because
+what we removed was a vertex cover. So, the one of the end point of this edge has to be
+in that. So, if you remove a vertex cover from the Graph what we are left with this an
+independent set. So therefore, we can see that, if I remove a minimum vertex cover, then
+what remains - the n minus the cardinality of the minimum vertex cover, number of
+vertices form an independent set. So, that is what we have written here.
+So therefore, our maximum independent set cardinality has to be even greater than this.
+So, alpha is greater than equal to n minus MVC of G, that is what.
+

@@ -1,0 +1,50 @@
+(Refer Slide Time: 01:43)
+
+We state that vertex U precedes Vertex V to mean that U exited Q before V. Now, that is
+because every vertex actually enters and exits and that is exactly once. So, there is a
+natural order on which these vertices are existing from Q. So, this is a well defined total
+order on the vertices. Now, we are going to state an important claim that is if vertices U
+and V coexisted Q and at any point in time U was ahead of V, then d of U plus 1 is
+greater than equal to d of V which is greater than equal to d of U. So, let me explain what
+I mean by this claim.
+So, let me write down here that this represents the cube where the elements exits from
+this end; and at some point in time U was somewhere here and V was after it. So, the
+claim says that the value of the d value of U and d value of V their difference cannot be
+more than 1. This cannot be less than the d value of this. So, we will prove this claim by
+induction on the iterations. So, initially let us take the state when we first enter s or V enqueue s into the queue. So, initially we have only one element namely s. There is no
+other element.
+So, the claim is trivially true. There is nothing to compare with. So, let us suppose that it
+is initially trivially true. So, we will take now an induction step. Suppose, after i minus 1
+iterations the claim holds, so I would like to prove that the same holds after ith iteration.
+So, let us suppose we have this situation at the head of this. This is the direction of Q. At
+the head of Q, is Vertex W and then we have other vertices.
+
+Let us call them x 1, x 2 and x 3 at the start of the iteration. As the algorithm does, it
+picks the elements at the head of the cube so that variables stated to be U is this vertex. It
+has value of this vertex W. So, W has been taken out this. It is taken out. Let us come to
+that piece of the code when you are taking the U out. So, W is this vertex right and now
+what you do is you look at all the adjacent vertices to the selected vertex W. What you
+do is you assign the d value of each of these neighbors to be 1 more than the d value of
+W, provided it is not already visited.
+So, it is unvisited. So, when we take out and suppose this is vertex W and you have
+several neighbors to this, say y 1, y 2 and y 3 in the graph. If these are new unvisited
+vertices, then we enter them here. So, y 1, y 2 and y three start entering into this. Their d
+values will be 1 more than the d value of this. So, d of y 1, d of y 2, d of y 3, etcetera are
+all d of W plus 1. Now, from induction hypotheses, d value of all of these cannot be
+more than d W plus 1.
+So, after this iteration, what you get here is x 1, x 2, x 3, etcetera and then y 1, y 2, y 3.
+Of course, those vertices of W, which are current, they are already present in this. So, we
+do not touch them, but the other vertices which are unvisited are entered into the cube.
+The d values are d W plus 1. Now the d values of all these vertices is between d W and d
+W plus 1 and the d value of these is exactly d W plus 1. So, our claim is that for any two
+vertices, if you take any two vertices, say you pick any vertex here and any vertex here,
+then the d value of this is greater than equal to this and the difference is at most 1.
+Now, if both of them are from this collection that claim was already true, because the
+claim was true in i minus first iteration if the second vertex is among these ys, then we
+know that the d value of this is either d W or d W plus 1. This is d W plus 1. So, once
+again the difference is at most 1. This is greater than equal to this. So, if we take this of
+and both of the vertices are from this side, then their d values are same. So, the claim
+remains true in all the three situations. Hence, the claim has been established by
+induction. So, one of the consequence of our result is that the d value of every next
+vertex cannot be less than the d value of the previous vertex.
+

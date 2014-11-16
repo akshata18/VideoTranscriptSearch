@@ -1,0 +1,9 @@
+(Refer Slide Time: 46:14)
+
+Philosophers have analyzed the nature of knowledge and have explored formal
+frameworks for developing conclusions. There have been mathematical formalizations in
+logic, in computation and probability. Economists have developed decision theory and
+biologists have reasoned about how the brain processes information. Psychologists have
+long studied human cognition and they require knowledge about the nature of human
+intelligence.
+

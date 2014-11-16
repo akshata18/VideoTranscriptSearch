@@ -1,0 +1,9 @@
+(Refer Slide Time: 22:22)
+
+This is a system ALVINN which stands for Autonomous Land Vehicle in a Neural
+Network. It was designed in 1989 by Dean Pomerleau at Carnegie Mellon University.
+This system drove a car from the east coast to the west coast across United States of
+America using computer control. And it drove completely autonomously for most of the
+2850 miles. Only for 50 miles especially at exits to freeways etc the human driver took
+charge. For 2800 miles the car drove it. And the idea behind the car is quite simple. In
+front of the car is a camera which takes a picture of the road in front.

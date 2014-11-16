@@ -1,0 +1,22 @@
+(Refer Slide Time: 39:16) 
+
+ After the syntax analysis part of the translation, we move on to what is known as the semantic analysis. In the case of semantic analysis, the input to the semantic analyzer is the syntax tree and which has information from the program. Finally, it validates this particular syntax tree along with the information available from the program and then produces what is known as a semantically validated syntax tree, which is the input to the next phase of the compiler namely, the intermediate code generator. (Refer Slide Time: 40:03) 
+
+ 
+
+
+
+
+What is semantic analysis? Semantic analysis handles actually the features of a program, which cannot be handled at the syntax level. As I mentioned, type checking - whether the left-hand side of an assignment is the same as right-hand side of an assignment. The type 
+
+(( )) whether I am wrongly assigning an array some value, which is not an array or am I assigning a character value to an integer variable. These are all the kind of checks that I want to do in semantic analysis. 
+
+During semantic analysis, we also need a huge table called the symbol table, which 
+
+stores the names of the variables and their types, parameters of functions and their types, dimensions of an array, and so on and so forth. This particular symbol table is useful not only during compilation, but also for other purposes such as debugging. For example, when you turn on the debugger in GCC, the compiler actually includes the entire symbol table in the assembly code, which is produced by it. That is how actually the debugger can know – what is a variable, which variable is it, what is its type and so on and so forth. Otherwise, it is impossible for the binary code to find out the types of such variables. 
+
+The specifications, which can be used in semantic analysis can be provided by what are known as attribute grammars. Attribute grammars can specify what are known as static semantics of programming languages, but not dynamic semantics. Dynamic semantics are – what happens at run time; that cannot be specified by attribute grammar and there are no suitable specifications for these either. We will have to actually generate code to check such violations in the code itself. It is possible to generate semantic analyzers automatically from attributed translation grammars and we will very soon see an example of how this can be done. If declarations need not appear before use as in c plus plus, semantic analysis actually needs more than one phase. It may not be possible to do this semantic analysis in just one phase, we may need more than one phase. 
+
+
+
+

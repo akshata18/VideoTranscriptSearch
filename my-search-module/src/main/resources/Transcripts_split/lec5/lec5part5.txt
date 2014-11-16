@@ -1,0 +1,13 @@
+(Refer Slide Time: 05:00)
+
+So, for for instance, let us consider the simplest example: The it is let let it be the vertex
+set be a single turn which is one, then there is no pair of vertices then itself is a complete
+Graph, no edge right. So, we are talking about simple Graphs there.
+
+And then say suppose there are two vertices – 1 and 2 then there is only one pair. So, this
+is a complete Graph, this is called k 2 - complete Graph on two vertices. So, the suppose
+there are 3 vertices. Then there are three pairs one is like this, this is other, third one is
+this; this is 1, 2, 3. This is the complete Graph 1, 3 vertices; the how will the complete
+Graph on 4 vertices look like. So, I will draw four nodes 1, 2, 3, 4. So, I put all the
+possible edges. So, because there are 6 pairs here have to add all the 6 this is the
+complete Graph on this thing.

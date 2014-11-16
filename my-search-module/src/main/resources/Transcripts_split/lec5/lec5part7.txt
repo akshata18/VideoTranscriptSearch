@@ -1,0 +1,9 @@
+(Refer Slide Time: 06:51)
+
+Now, the next thing is two notions: Sub graphs, induced Sub Graph. So, given a Graph
+G, we say that another Graph H is a Sub Graph of H. If the vertex set of H is a subset of
+the vertex set of G that is what a we mention. So, V of H is a subset of V of G, and the
+edge set of H is a subset of the edge set of G. Thus next statement is just to say that the
+edge set means we are not just naming, we are just using the same name, but the
+assignment of a vertices to the each edge is the same G and H. For instance rather than
+explaining like this, it is better to draw a Graph ensure.

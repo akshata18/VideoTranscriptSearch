@@ -1,0 +1,19 @@
+(Refer Slide Time: 37:01)
+I have some complicated function like 8 n2 log n+ 5 n2 +n in which I just drop all lower
+order terms. This is the fastest growing term because this has n2 as well as log n in it. I
+just drop n2 , n term and also I drop my constant and get n2 log n. This function is O
+( n2 log n). In the limit this quantity (8 n2 log n+5 n2 +n) will be less than some constant
+times this quantity (O ( n2 log n)). You can figure out what should be the value of c
+and 0 n , for that to happen.
+This is a common error. The function 50 n log n is also O ( n5 ). Whether it is yes or no. It
+is yes, because this quantity (50 n log n) in fact is  50 times n5 always, for all n and that
+is just a constant so this is O( n5 ). But when we use the O-notation we try and provide as
+strong amount as possible instead of saying this statement is true we will rather call this
+as O (n log n)). We will see more of this in subsequent slides.
+How are we going to use the O-notation? We are going to express the number of
+primitive operations that are executed during run of the program as a function of the input
+size. We are going to use O-notation for that. If I have an algorithm which takes the
+number of primitive operations as O (n) and some other algorithm for which the number
+of primitive operations is O ( n2 ). Then clearly the first algorithm is better than the
+second. Why because as the input size doubles then the running time of the algorithm is
+also going to double, while the running time of O ( n2 ) algorithm will increase four fold.

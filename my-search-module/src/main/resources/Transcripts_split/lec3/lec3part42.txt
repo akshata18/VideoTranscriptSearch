@@ -1,0 +1,6 @@
+(Refer Slide Time: 48:05)
+
+So that was the first step in building a mechanical computing device. In 19th century
+George Boole developed a binary algebra representation which laid the foundation of
+Boolean algebra. Charles Babbage and Lady Ada Byron worked on programmable
+mechanical calculating machines.

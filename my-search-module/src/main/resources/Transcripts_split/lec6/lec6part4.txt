@@ -1,0 +1,59 @@
+(Refer Slide Time: 07:35)
+
+This diagram identifies different stages in the waterfall model. Let us look at each one of
+them briefly. Then later on we will look at each of them in some more details. So the first
+step is the system engineering step where you try to understand the overall problem and
+identify which of the problem elements are to be handled through the software. It is
+possible that certain requirements of the problem may need to be done manually, because
+automation may not be possible whereas some other functions will be performed by the
+software. So one of the goals in system engineering is to understand the overall context of
+the problem. And then identify what would be the responsibilities to be met through the
+software. After doing that we undertake the analysis phase. In the analysis phase we
+understand the problem domain of the user in more detail. We understand what kind of
+information is involved what kind of data is involved, what functions need to be
+performed, what are the performance and interfacing requirements. This part is the
+analysis part whose purpose is to identify or clearly define the requirements which are to
+be met thru the development of the software along with.
+In the analysis we also try to carry out project planning either as a part of the same step or
+if it is large project, the project planning step may be made as a separate step. And the
+purpose of project planning is to identify how we will carry out the project what are the
+different steps, what are the deliverables, and what would be the time frame what could
+be the resources allocated. That is what a project planning is all about. After the analysis
+is done, the next step leads to the design step. In the design step we translate the
+requirements into the software architecture when we prepare the database design and so
+on. So this is a primarily a technical step and in this step the requirements are translated
+into an implementation framework, which will be implemented in the next phase that is
+the coding phase, in which the actual programming and implementation will be done.
+
+So you have a design and the design is followed by implementation. In fact as it notes
+here the design itself may be divided into two stages called high level design and detailed
+design. Again this would depend on the complexity of the task. After you have done the
+implementation or carried out the programming phase, when the individual units of the
+software are ready, you would get into the next phase called testing phase and integration
+phase. In this all the individual pieces of the software are individually first tested, and
+then the whole software is put together. The objective is to test first the logic of
+individual modules. And then when we put all of them together we want to test their
+interfaces, so that they work collectively in a manner in which they were intended to
+work. This is the testing and integration phase and this is followed by actual deployment
+of the software. Now the software is ready. It is deployed and implemented. The user will
+take control and will start using the software.
+After the deployment there is an ongoing maintenance phase. In the maintenance phase,
+we have to make the necessary changes; if any errors are encountered we will have to
+remove the errors. If the software is not meeting the performance requirements we may
+have to review the software, maybe we have to go back and look at the design whether
+the design can be modified or if there is something else that can be done in order to
+improve the performance. So this is an ongoing step which may generally be called a
+maintenance phase. And in this phase, the software is either enhanced or is perfected or is
+ported to new hardware or new machines. This is an ongoing activity which needs to be
+done throughout the life time of the software. These are the different phases through
+which a typical software development goes through. We have identified here the main
+steps. Each of the steps has certain deliverable. Let us enumerate the different
+deliverables which come out in a given sequence when we perform these various steps.
+One of the important deliverable is the project plan. We will be carrying out the project
+according to the plan that we make. Of course the plan needs to be revised periodically as
+we progress through the project. One of the deliverable could also be the feasibility
+report. The feasibility report is a report which defines the cost effectiveness of the
+approach and the whole software project, whether it is a good investment we are making,
+whether the software will be cost effective, whether it will give the kind of benefits we
+are expecting from the software.
+

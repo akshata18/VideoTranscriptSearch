@@ -1,0 +1,8 @@
+(Refer Slide Time: 08:17)
+
+As you see or what is clear from the two words Artificial Intelligence it is clear to see that
+AI is concerned with the design of intelligence. And in the first term AI is actually
+concerned with design of intelligence in artificial artifacts and artificial devices. Thus,
+
+artificial systems or man made systems are building intelligence into them. This term was
+coined by McCarthy in 1956 in a famous conference the Dartmouth conference.
